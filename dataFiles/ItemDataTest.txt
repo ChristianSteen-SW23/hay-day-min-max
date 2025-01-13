@@ -1,0 +1,104 @@
+<table class="wikitable sortable" style="max-width: 100%; text-align: center; margin: 1em 0;" border="0" cellpadding="1" cellspacing="1">
+<tbody><tr>
+<th scope="col">Name
+</th>
+<th scope="col"><a href="/wiki/Experience" title="Experience">Level</a>
+</th>
+<th scope="col">Max. price
+</th>
+<th scope="col" class="unsortable">Time
+</th>
+<th scope="col">XP
+</th>
+<th scope="col" class="unsortable">Needs
+</th>
+<th scope="col">Source
+</th>
+<th scope="col">Per boat crate
+</th></tr>
+<tr>
+<td><b><a href="/wiki/Wheat" title="Wheat">Wheat</a></b><br /><a href="https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest?cb=20240218150024" class="image"><img alt="Wheat" src="https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest/scale-to-width-down/100?cb=20240218150024" decoding="async" loading="lazy" width="100" height="100" data-image-name="Wheat.png" data-image-key="Wheat.png" data-relevant="1" /></a>
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>2 min
+</td>
+<td>1
+</td>
+<td><a href="/wiki/Wheat" title="Wheat">Wheat</a>&#160;(1)
+</td>
+<td><a href="/wiki/Farm" title="Farm">Field</a> (1st crop)
+</td>
+<td>50-101
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Egg" title="Egg">Egg</a></b><br /><a href="https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420" class="image"><img alt="Egg" src="https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest/scale-to-width-down/100?cb=20191025193420" decoding="async" loading="lazy" width="100" height="100" data-image-name="Egg.png" data-image-key="Egg.png" data-relevant="1" /></a>
+</td>
+<td>1
+</td>
+<td>18
+</td>
+<td>20 min
+</td>
+<td>2
+</td>
+<td><a href="/wiki/Chicken_Feed" title="Chicken Feed">Chicken feed</a>&#160;(1)
+</td>
+<td><a href="/wiki/Chicken" title="Chicken">Chicken</a> (1st animal product)
+</td>
+<td>15-24
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Corn" title="Corn">Corn</a></b><br /><a href="https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631" class="image"><img alt="Corn" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="100" height="100" data-image-name="Corn.png" data-image-key="Corn.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest/scale-to-width-down/100?cb=20240218151631" class="lazyload" /></a>
+</td>
+<td>2
+</td>
+<td>7
+</td>
+<td>5 min
+</td>
+<td>1
+</td>
+<td><a href="/wiki/Corn" title="Corn">Corn</a>&#160;(1)
+</td>
+<td><a href="/wiki/Farm" title="Farm">Field</a> (2nd crop)
+</td>
+<td>50-87
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Bacon_Pie" title="Bacon Pie">Bacon pie</a></b><br /><a href="https://static.wikia.nocookie.net/hayday/images/b/b4/Bacon_Pie.png/revision/latest?cb=20240207145633" class="image"><img alt="Bacon Pie" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="100" height="100" data-image-name="Bacon Pie.png" data-image-key="Bacon_Pie.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/hayday/images/b/b4/Bacon_Pie.png/revision/latest/scale-to-width-down/100?cb=20240207145633" class="lazyload" /></a>
+</td>
+<td>18
+</td>
+<td>219
+</td>
+<td>3 h<br />★★★ 2 h 33 min
+</td>
+<td>26
+</td>
+<td><a href="/wiki/Bacon" title="Bacon">Bacon</a>&#160;(3)
+<p><a href="/wiki/Egg" title="Egg">Egg</a>&#160;(1)<br /><a href="/wiki/Wheat" title="Wheat">Wheat</a>&#160;(2)
+</p>
+</td>
+<td><a href="/wiki/Pie_Oven" title="Pie Oven">Pie Oven</a>
+</td>
+<td>1-3
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Cherry" title="Cherry">Cherry</a></b><br /><a href="https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png/revision/latest?cb=20191023150203" class="image"><img alt="Cherry" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="100" height="100" data-image-name="Cherry.png" data-image-key="Cherry.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png/revision/latest/scale-to-width-down/100?cb=20191023150203" class="lazyload" /></a>
+</td>
+<td>22
+</td>
+<td>68
+</td>
+<td>1 d 3 h
+</td>
+<td>13
+</td>
+<td>N/A
+</td>
+<td><a href="/wiki/Cherry_Tree" title="Cherry Tree">Cherry tree</a> (11th crop)
+</td>
+<td>4-7

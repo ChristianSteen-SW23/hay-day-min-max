@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Wheat",
+    "level": 1,
+    "price": 3,
+    "time": 2,
+    "needs": [
+      "Wheat"
+    ],
+    "source": "Farm"
+  },
+  {
+    "name": "Egg",
+    "level": 1,
+    "price": 18,
+    "time": 20,
+    "needs": [
+      "Chicken Feed"
+    ],
+    "source": "Chicken"
+  },
+  {
+    "name": "Corn",
+    "level": 2,
+    "price": 7,
+    "time": 5,
+    "needs": [
+      "Corn"
+    ],
+    "source": "Farm"
+  },
+  {
+    "name": "Bacon Pie",
+    "level": 18,
+    "price": 219,
+    "time": 180,
+    "needs": [
+      "Bacon",
+      "Egg"
+    ],
+    "source": "Pie Oven"
+  },
+  {
+    "name": "Cherry",
+    "level": 22,
+    "price": 68,
+    "time": 1440,
+    "needs": [],
+    "source": "Cherry Tree"
+  }
+]

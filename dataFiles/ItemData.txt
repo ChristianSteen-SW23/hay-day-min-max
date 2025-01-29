@@ -5060,9 +5060,7 @@
 <td>3-4
 </td></tr>
 <tr>
-<td>
-<p><b><a href="/wiki/Mint_Ice_Cream" title="Mint Ice Cream">Mint ice cream</a></b><br /><b><a href="https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png/revision/latest?cb=20240411152759" class="image"><img alt="Mint Ice Cream" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="100" height="100" data-image-name="Mint Ice Cream.png" data-image-key="Mint_Ice_Cream.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png/revision/latest/scale-to-width-down/100?cb=20240411152759" class="lazyload" /></a></b>
-</p>
+<td><b><a href="/wiki/Mint_Ice_Cream" title="Mint Ice Cream">Mint ice cream</a></b><br /><b><a href="https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png/revision/latest?cb=20240411152759" class="image"><img alt="Mint Ice Cream" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="100" height="100" data-image-name="Mint Ice Cream.png" data-image-key="Mint_Ice_Cream.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png/revision/latest/scale-to-width-down/100?cb=20240411152759" class="lazyload" /></a></b>
 </td>
 <td>85
 </td>

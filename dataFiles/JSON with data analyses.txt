@@ -1,0 +1,5010 @@
+[
+  {
+    "name": "Potted Plant",
+    "level": 96,
+    "price": 151,
+    "time": 180,
+    "needs": [
+      "Clay",
+      "Sunflower"
+    ],
+    "source": "Pottery Studio",
+    "need_value": 39,
+    "time_per_value": 37.333332
+  },
+  {
+    "name": "Peach",
+    "level": 76,
+    "price": 100,
+    "time": 1440,
+    "needs": [],
+    "source": "Peach Tree",
+    "need_value": 0,
+    "time_per_value": 4.1666665
+  },
+  {
+    "name": "Peach Ice Cream",
+    "level": 83,
+    "price": 450,
+    "time": 180,
+    "needs": [
+      "Cream",
+      "Honey"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 204,
+    "time_per_value": 82.0
+  },
+  {
+    "name": "Honey Face Mask",
+    "level": 99,
+    "price": 320,
+    "time": 60,
+    "needs": [
+      "Egg",
+      "Honey"
+    ],
+    "source": "Bath Kiosk",
+    "need_value": 172,
+    "time_per_value": 148.0
+  },
+  {
+    "name": "Peony",
+    "level": 82,
+    "price": 36,
+    "time": 240,
+    "needs": [
+      "Peony"
+    ],
+    "source": "Farm",
+    "need_value": 36,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Pineapple Coconut Bars",
+    "level": 120,
+    "price": 284,
+    "time": 40,
+    "needs": [
+      "Coconut",
+      "White Sugar",
+      "Oats",
+      "Pineapple"
+    ],
+    "source": "Bakery",
+    "need_value": 179,
+    "time_per_value": 157.5
+  },
+  {
+    "name": "Coconut Ice Cream",
+    "level": 102,
+    "price": 320,
+    "time": 15,
+    "needs": [
+      "Coconut",
+      "Syrup"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 198,
+    "time_per_value": 488.0
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "level": 34,
+    "price": 331,
+    "time": 240,
+    "needs": [
+      "Cream",
+      "Milk"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 82,
+    "time_per_value": 62.25
+  },
+  {
+    "name": "Mint Essential Oil",
+    "level": 85,
+    "price": 172,
+    "time": 15,
+    "needs": [],
+    "source": "Mint",
+    "need_value": 0,
+    "time_per_value": 688.0
+  },
+  {
+    "name": "Macaroon",
+    "level": 101,
+    "price": 421,
+    "time": 30,
+    "needs": [
+      "Cacao",
+      "Coconut"
+    ],
+    "source": "Bakery",
+    "need_value": 194,
+    "time_per_value": 454.0
+  },
+  {
+    "name": "Cherry Juice",
+    "level": 30,
+    "price": 216,
+    "time": 120,
+    "needs": [
+      "Cherry"
+    ],
+    "source": "Juice Press",
+    "need_value": 68,
+    "time_per_value": 74.0
+  },
+  {
+    "name": "Pillow",
+    "level": 51,
+    "price": 676,
+    "time": 180,
+    "needs": [
+      "Cotton Fabric",
+      "Duck Feather"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 248,
+    "time_per_value": 142.66667
+  },
+  {
+    "name": "Caramel Latte",
+    "level": 62,
+    "price": 345,
+    "time": 15,
+    "needs": [
+      "Coffee Bean",
+      "Toffee"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 240,
+    "time_per_value": 420.0
+  },
+  {
+    "name": "Bacon Fries",
+    "level": 87,
+    "price": 302,
+    "time": 25,
+    "needs": [
+      "Chili Pepper",
+      "Bacon"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 86,
+    "time_per_value": 518.4
+  },
+  {
+    "name": "Lobster Soup",
+    "level": 46,
+    "price": 612,
+    "time": 120,
+    "needs": [
+      "Chili Pepper",
+      "Cream"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 86,
+    "time_per_value": 263.0
+  },
+  {
+    "name": "Soy Sauce",
+    "level": 54,
+    "price": 154,
+    "time": 180,
+    "needs": [
+      "Soybean",
+      "Wheat"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 13,
+    "time_per_value": 47.0
+  },
+  {
+    "name": "Beeswax",
+    "level": 48,
+    "price": 234,
+    "time": 45,
+    "needs": [
+      "Honeycomb"
+    ],
+    "source": "Honey Extractor",
+    "need_value": 68,
+    "time_per_value": 221.33333
+  },
+  {
+    "name": "Potato Omelet",
+    "level": 87,
+    "price": 270,
+    "time": 60,
+    "needs": [
+      "Egg",
+      "Bacon",
+      "Potato"
+    ],
+    "source": "Omelet Station",
+    "need_value": 104,
+    "time_per_value": 166.0
+  },
+  {
+    "name": "Fish Fillet",
+    "level": 27,
+    "price": 54,
+    "time": 0,
+    "needs": [
+      "Lure",
+      "Fishing Net"
+    ],
+    "source": "Fish",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Coleslaw",
+    "level": 75,
+    "price": 468,
+    "time": 60,
+    "needs": [
+      "Cabbage",
+      "Carrot"
+    ],
+    "source": "Salad Bar",
+    "need_value": 25,
+    "time_per_value": 443.0
+  },
+  {
+    "name": "Potato",
+    "level": 35,
+    "price": 36,
+    "time": 180,
+    "needs": [
+      "Potato"
+    ],
+    "source": "Farm",
+    "need_value": 36,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Milk",
+    "level": 6,
+    "price": 32,
+    "time": 60,
+    "needs": [
+      "Cow Feed"
+    ],
+    "source": "Cow",
+    "need_value": 14,
+    "time_per_value": 18.0
+  },
+  {
+    "name": "Soft Bouquet",
+    "level": 93,
+    "price": 298,
+    "time": 30,
+    "needs": [
+      "Peony",
+      "Cotton"
+    ],
+    "source": "Flower Shop",
+    "need_value": 64,
+    "time_per_value": 468.0
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "level": 99,
+    "price": 442,
+    "time": 45,
+    "needs": [
+      "Eggplant",
+      "Cheese"
+    ],
+    "source": "Pie Oven",
+    "need_value": 136,
+    "time_per_value": 408.0
+  },
+  {
+    "name": "Strawberry Jam",
+    "level": 50,
+    "price": 270,
+    "time": 420,
+    "needs": [
+      "Strawberry"
+    ],
+    "source": "Jam Maker",
+    "need_value": 50,
+    "time_per_value": 31.428572
+  },
+  {
+    "name": "Chili Fudge",
+    "level": 104,
+    "price": 540,
+    "time": 120,
+    "needs": [
+      "Butter",
+      "Cacao"
+    ],
+    "source": "Fudge Shop",
+    "need_value": 168,
+    "time_per_value": 186.0
+  },
+  {
+    "name": "Lobster Trap",
+    "level": 44,
+    "price": 0,
+    "time": 120,
+    "needs": [],
+    "source": "Net Maker",
+    "need_value": 0,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Candy Bouquet",
+    "level": 90,
+    "price": 554,
+    "time": 20,
+    "needs": [
+      "Peony",
+      "Toffee"
+    ],
+    "source": "Flower Shop",
+    "need_value": 212,
+    "time_per_value": 1026.0
+  },
+  {
+    "name": "Corn Bread",
+    "level": 7,
+    "price": 72,
+    "time": 30,
+    "needs": [
+      "Corn",
+      "Egg"
+    ],
+    "source": "Bakery",
+    "need_value": 25,
+    "time_per_value": 94.0
+  },
+  {
+    "name": "Passion Fruit Jam",
+    "level": 96,
+    "price": 118,
+    "time": 300,
+    "needs": [
+      "Passion Fruit"
+    ],
+    "source": "Jam Maker",
+    "need_value": 18,
+    "time_per_value": 20.0
+  },
+  {
+    "name": "Falafel",
+    "level": 98,
+    "price": 226,
+    "time": 55,
+    "needs": [
+      "Chili Pepper",
+      "Chickpea"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 54,
+    "time_per_value": 187.63635
+  },
+  {
+    "name": "Tomato Juice",
+    "level": 31,
+    "price": 162,
+    "time": 60,
+    "needs": [
+      "Tomato"
+    ],
+    "source": "Juice Press",
+    "need_value": 43,
+    "time_per_value": 119.0
+  },
+  {
+    "name": "Iced Tea",
+    "level": 92,
+    "price": 252,
+    "time": 30,
+    "needs": [
+      "Peach",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 143,
+    "time_per_value": 218.0
+  },
+  {
+    "name": "Hot Dog",
+    "level": 75,
+    "price": 370,
+    "time": 30,
+    "needs": [
+      "Bacon",
+      "Bread"
+    ],
+    "source": "Hot Dog Stand",
+    "need_value": 71,
+    "time_per_value": 598.0
+  },
+  {
+    "name": "Grape Juice",
+    "level": 84,
+    "price": 104,
+    "time": 120,
+    "needs": [
+      "Grapes"
+    ],
+    "source": "Juice Press",
+    "need_value": 32,
+    "time_per_value": 36.0
+  },
+  {
+    "name": "Mint Fudge",
+    "level": 102,
+    "price": 522,
+    "time": 120,
+    "needs": [
+      "Butter",
+      "Cacao"
+    ],
+    "source": "Fudge Shop",
+    "need_value": 168,
+    "time_per_value": 177.0
+  },
+  {
+    "name": "Cotton Shirt",
+    "level": 19,
+    "price": 241,
+    "time": 45,
+    "needs": [
+      "Cotton Fabric"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 108,
+    "time_per_value": 177.33333
+  },
+  {
+    "name": "Shepherd&#39;s Pie",
+    "level": 39,
+    "price": 280,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Carrot"
+    ],
+    "source": "Pie Oven",
+    "need_value": 57,
+    "time_per_value": 223.0
+  },
+  {
+    "name": "Apple Pie",
+    "level": 28,
+    "price": 270,
+    "time": 120,
+    "needs": [
+      "Apple",
+      "Egg"
+    ],
+    "source": "Pie Oven",
+    "need_value": 57,
+    "time_per_value": 106.5
+  },
+  {
+    "name": "Fish Taco",
+    "level": 79,
+    "price": 392,
+    "time": 60,
+    "needs": [
+      "Chili Pepper",
+      "Corn Bread"
+    ],
+    "source": "Taco Kitchen",
+    "need_value": 108,
+    "time_per_value": 284.0
+  },
+  {
+    "name": "Mint",
+    "level": 85,
+    "price": 32,
+    "time": 180,
+    "needs": [
+      "Mint"
+    ],
+    "source": "Farm",
+    "need_value": 32,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Bacon Donut",
+    "level": 88,
+    "price": 388,
+    "time": 30,
+    "needs": [
+      "Plain Donut"
+    ],
+    "source": "Donut Maker",
+    "need_value": 129,
+    "time_per_value": 518.0
+  },
+  {
+    "name": "Tropical Cupcake",
+    "level": 112,
+    "price": 572,
+    "time": 60,
+    "needs": [
+      "Plain Cupcake",
+      "Pineapple",
+      "Coconut"
+    ],
+    "source": "Cupcake Maker",
+    "need_value": 402,
+    "time_per_value": 170.0
+  },
+  {
+    "name": "Bacon",
+    "level": 10,
+    "price": 50,
+    "time": 240,
+    "needs": [
+      "Pig Feed"
+    ],
+    "source": "Pig",
+    "need_value": 14,
+    "time_per_value": 9.0
+  },
+  {
+    "name": "Raspberry Jam",
+    "level": 36,
+    "price": 252,
+    "time": 420,
+    "needs": [
+      "Raspberry"
+    ],
+    "source": "Jam Maker",
+    "need_value": 46,
+    "time_per_value": 29.428572
+  },
+  {
+    "name": "Garlic",
+    "level": 60,
+    "price": 14,
+    "time": 30,
+    "needs": [
+      "Garlic"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Blackberry Jam",
+    "level": 37,
+    "price": 388,
+    "time": 480,
+    "needs": [
+      "Blackberry"
+    ],
+    "source": "Jam Maker",
+    "need_value": 82,
+    "time_per_value": 38.25
+  },
+  {
+    "name": "Gracious Bouquet",
+    "level": 73,
+    "price": 500,
+    "time": 40,
+    "needs": [
+      "Cotton Fabric",
+      "Lily"
+    ],
+    "source": "Flower Shop",
+    "need_value": 129,
+    "time_per_value": 556.5
+  },
+  {
+    "name": "Sesame Brittle",
+    "level": 78,
+    "price": 270,
+    "time": 60,
+    "needs": [
+      "Sesame",
+      "Ginger"
+    ],
+    "source": "Candy Machine",
+    "need_value": 46,
+    "time_per_value": 224.0
+  },
+  {
+    "name": "Pickles",
+    "level": 91,
+    "price": 270,
+    "time": 240,
+    "needs": [
+      "Cucumber",
+      "Onion"
+    ],
+    "source": "Preservation Station",
+    "need_value": 53,
+    "time_per_value": 54.25
+  },
+  {
+    "name": "Bacon Fondue",
+    "level": 86,
+    "price": 507,
+    "time": 30,
+    "needs": [
+      "Bacon",
+      "Broccoli"
+    ],
+    "source": "Fondue Pot",
+    "need_value": 71,
+    "time_per_value": 872.0
+  },
+  {
+    "name": "Green Tea",
+    "level": 80,
+    "price": 241,
+    "time": 30,
+    "needs": [
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 43,
+    "time_per_value": 396.0
+  },
+  {
+    "name": "Big Sushi Roll",
+    "level": 76,
+    "price": 648,
+    "time": 60,
+    "needs": [
+      "Lettuce",
+      "Rice"
+    ],
+    "source": "Sushi Bar",
+    "need_value": 50,
+    "time_per_value": 598.0
+  },
+  {
+    "name": "Passion Fruit",
+    "level": 88,
+    "price": 18,
+    "time": 60,
+    "needs": [
+      "Passion Fruit"
+    ],
+    "source": "Farm",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Hot Chocolate",
+    "level": 47,
+    "price": 316,
+    "time": 25,
+    "needs": [
+      "Cacao",
+      "Cream"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 136,
+    "time_per_value": 432.0
+  },
+  {
+    "name": "Honey Apple Cake",
+    "level": 42,
+    "price": 482,
+    "time": 180,
+    "needs": [
+      "Apple",
+      "Egg"
+    ],
+    "source": "Cake Oven",
+    "need_value": 57,
+    "time_per_value": 141.66667
+  },
+  {
+    "name": "Exfoliating Soap",
+    "level": 93,
+    "price": 363,
+    "time": 60,
+    "needs": [
+      "Cacao",
+      "Coffee Bean"
+    ],
+    "source": "Bath Kiosk",
+    "need_value": 150,
+    "time_per_value": 213.0
+  },
+  {
+    "name": "Gold Bar",
+    "level": 25,
+    "price": 180,
+    "time": 720,
+    "needs": [
+      "Gold Ore"
+    ],
+    "source": "Smelter",
+    "need_value": 21,
+    "time_per_value": 13.25
+  },
+  {
+    "name": "Guava Cupcake",
+    "level": 109,
+    "price": 583,
+    "time": 60,
+    "needs": [
+      "Plain Cupcake",
+      "Guava",
+      "Cream"
+    ],
+    "source": "Cupcake Maker",
+    "need_value": 441,
+    "time_per_value": 142.0
+  },
+  {
+    "name": "Cucumber Sandwich",
+    "level": 79,
+    "price": 464,
+    "time": 35,
+    "needs": [
+      "Cucumber",
+      "Mayonnaise"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 381,
+    "time_per_value": 142.28572
+  },
+  {
+    "name": "Strawberry",
+    "level": 34,
+    "price": 50,
+    "time": 480,
+    "needs": [
+      "Strawberry"
+    ],
+    "source": "Farm",
+    "need_value": 50,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Bacon and Eggs",
+    "level": 11,
+    "price": 201,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Egg"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 68,
+    "time_per_value": 133.0
+  },
+  {
+    "name": "Cheese",
+    "level": 12,
+    "price": 122,
+    "time": 60,
+    "needs": [
+      "Milk"
+    ],
+    "source": "Dairy",
+    "need_value": 32,
+    "time_per_value": 90.0
+  },
+  {
+    "name": "Sweater",
+    "level": 17,
+    "price": 151,
+    "time": 120,
+    "needs": [
+      "Wool"
+    ],
+    "source": "Loom",
+    "need_value": 54,
+    "time_per_value": 48.5
+  },
+  {
+    "name": "Lemon Curd",
+    "level": 66,
+    "price": 378,
+    "time": 25,
+    "needs": [
+      "Butter",
+      "Egg"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 100,
+    "time_per_value": 667.2
+  },
+  {
+    "name": "Coconut",
+    "level": 101,
+    "price": 108,
+    "time": 1440,
+    "needs": [],
+    "source": "Coconut Tree",
+    "need_value": 0,
+    "time_per_value": 4.5
+  },
+  {
+    "name": "Spicy Pasta",
+    "level": 87,
+    "price": 576,
+    "time": 60,
+    "needs": [
+      "Fresh Pasta",
+      "Tomato Sauce"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 273,
+    "time_per_value": 303.0
+  },
+  {
+    "name": "Coffee Bean",
+    "level": 42,
+    "price": 64,
+    "time": 1440,
+    "needs": [],
+    "source": "Coffee Bush",
+    "need_value": 0,
+    "time_per_value": 2.6666667
+  },
+  {
+    "name": "Grilled Onion",
+    "level": 68,
+    "price": 190,
+    "time": 60,
+    "needs": [
+      "Butter",
+      "Onion"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 121,
+    "time_per_value": 69.0
+  },
+  {
+    "name": "Chamomile",
+    "level": 45,
+    "price": 10,
+    "time": 20,
+    "needs": [
+      "Chamomile"
+    ],
+    "source": "Farm",
+    "need_value": 10,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Asparagus Soup",
+    "level": 51,
+    "price": 255,
+    "time": 60,
+    "needs": [
+      "Asparagus",
+      "Cream"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 93,
+    "time_per_value": 162.0
+  },
+  {
+    "name": "Blanket",
+    "level": 59,
+    "price": 1098,
+    "time": 180,
+    "needs": [
+      "Cotton Fabric",
+      "Duck Feather"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 248,
+    "time_per_value": 283.33334
+  },
+  {
+    "name": "Cheesecake",
+    "level": 24,
+    "price": 284,
+    "time": 240,
+    "needs": [
+      "Cheese"
+    ],
+    "source": "Cake Oven",
+    "need_value": 122,
+    "time_per_value": 40.5
+  },
+  {
+    "name": "Mango",
+    "level": 97,
+    "price": 100,
+    "time": 1440,
+    "needs": [],
+    "source": "Mango Tree",
+    "need_value": 0,
+    "time_per_value": 4.1666665
+  },
+  {
+    "name": "Chili Poppers",
+    "level": 98,
+    "price": 406,
+    "time": 40,
+    "needs": [
+      "Chili Pepper",
+      "Wheat"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 39,
+    "time_per_value": 550.5
+  },
+  {
+    "name": "Pineapple Juice",
+    "level": 52,
+    "price": 68,
+    "time": 45,
+    "needs": [
+      "Pineapple"
+    ],
+    "source": "Juice Press",
+    "need_value": 14,
+    "time_per_value": 72.0
+  },
+  {
+    "name": "Eggplant",
+    "level": 90,
+    "price": 14,
+    "time": 40,
+    "needs": [
+      "Eggplant"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Fruit Sorbet",
+    "level": 106,
+    "price": 518,
+    "time": 60,
+    "needs": [
+      "Guava",
+      "Passion Fruit",
+      "Mango",
+      "White Sugar"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 279,
+    "time_per_value": 239.0
+  },
+  {
+    "name": "Coal",
+    "level": 33,
+    "price": 10,
+    "time": 0,
+    "needs": [
+      "Supplies"
+    ],
+    "source": "Mine",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Tropical Yogurt",
+    "level": 109,
+    "price": 457,
+    "time": 60,
+    "needs": [
+      "Plain Yogurt",
+      "Raspberry"
+    ],
+    "source": "Yogurt Maker",
+    "need_value": 280,
+    "time_per_value": 177.0
+  },
+  {
+    "name": "Casserole",
+    "level": 36,
+    "price": 367,
+    "time": 120,
+    "needs": [
+      "Bacon",
+      "Cheese"
+    ],
+    "source": "Pie Oven",
+    "need_value": 172,
+    "time_per_value": 97.5
+  },
+  {
+    "name": "Bacon Toast",
+    "level": 65,
+    "price": 648,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Bread"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 71,
+    "time_per_value": 577.0
+  },
+  {
+    "name": "Beetroot Salad",
+    "level": 76,
+    "price": 234,
+    "time": 45,
+    "needs": [
+      "Beetroot"
+    ],
+    "source": "Salad Bar",
+    "need_value": 14,
+    "time_per_value": 293.33334
+  },
+  {
+    "name": "Fresh Porridge",
+    "level": 122,
+    "price": 435,
+    "time": 35,
+    "needs": [
+      "Pomegranate",
+      "Mint",
+      "Coconut",
+      "Oats"
+    ],
+    "source": "Porridge Bar",
+    "need_value": 258,
+    "time_per_value": 303.4286
+  },
+  {
+    "name": "Hummus Wrap",
+    "level": 109,
+    "price": 374,
+    "time": 30,
+    "needs": [
+      "Bread",
+      "Lettuce"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 53,
+    "time_per_value": 642.0
+  },
+  {
+    "name": "Plain Waffles",
+    "level": 114,
+    "price": 198,
+    "time": 25,
+    "needs": [
+      "White Sugar",
+      "Egg",
+      "Wheat"
+    ],
+    "source": "Waffle Maker",
+    "need_value": 71,
+    "time_per_value": 304.80002
+  },
+  {
+    "name": "Lemon Tea",
+    "level": 86,
+    "price": 241,
+    "time": 20,
+    "needs": [
+      "Lemon",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 136,
+    "time_per_value": 315.0
+  },
+  {
+    "name": "Necklace",
+    "level": 39,
+    "price": 727,
+    "time": 180,
+    "needs": [
+      "Gold Bar",
+      "Platinum Bar"
+    ],
+    "source": "Jeweler",
+    "need_value": 385,
+    "time_per_value": 114.0
+  },
+  {
+    "name": "Olive",
+    "level": 57,
+    "price": 82,
+    "time": 1440,
+    "needs": [],
+    "source": "Olive Tree",
+    "need_value": 0,
+    "time_per_value": 3.4166667
+  },
+  {
+    "name": "Red Scarf",
+    "level": 48,
+    "price": 288,
+    "time": 120,
+    "needs": [
+      "Strawberry",
+      "Wool"
+    ],
+    "source": "Loom",
+    "need_value": 104,
+    "time_per_value": 92.0
+  },
+  {
+    "name": "Goat Feed",
+    "level": 32,
+    "price": 14,
+    "time": 40,
+    "needs": [
+      "Carrot",
+      "Corn"
+    ],
+    "source": "Feed Mill",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Veggie Platter",
+    "level": 74,
+    "price": 266,
+    "time": 120,
+    "needs": [
+      "Bell Pepper",
+      "Carrot"
+    ],
+    "source": "Salad Bar",
+    "need_value": 43,
+    "time_per_value": 111.5
+  },
+  {
+    "name": "Plain Cupcake",
+    "level": 109,
+    "price": 280,
+    "time": 40,
+    "needs": [
+      "Milk",
+      "White Sugar",
+      "Egg",
+      "Wheat"
+    ],
+    "source": "Cupcake Maker",
+    "need_value": 103,
+    "time_per_value": 265.5
+  },
+  {
+    "name": "Bell Pepper",
+    "level": 74,
+    "price": 36,
+    "time": 240,
+    "needs": [
+      "Bell Pepper"
+    ],
+    "source": "Farm",
+    "need_value": 36,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Apple Ginger Tea",
+    "level": 88,
+    "price": 169,
+    "time": 30,
+    "needs": [
+      "Ginger",
+      "Apple"
+    ],
+    "source": "Tea Stand",
+    "need_value": 67,
+    "time_per_value": 204.0
+  },
+  {
+    "name": "Sun Hat",
+    "level": 74,
+    "price": 558,
+    "time": 120,
+    "needs": [
+      "Duck Feather",
+      "Indigo"
+    ],
+    "source": "Hat Maker",
+    "need_value": 165,
+    "time_per_value": 196.5
+  },
+  {
+    "name": "Gold Ore",
+    "level": 24,
+    "price": 21,
+    "time": 0,
+    "needs": [
+      "Supplies"
+    ],
+    "source": "Mine",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Berry Smoothie",
+    "level": 64,
+    "price": 547,
+    "time": 60,
+    "needs": [
+      "Blackberry",
+      "Strawberry"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 132,
+    "time_per_value": 415.0
+  },
+  {
+    "name": "Broccoli",
+    "level": 83,
+    "price": 21,
+    "time": 60,
+    "needs": [
+      "Broccoli"
+    ],
+    "source": "Farm",
+    "need_value": 21,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Iced Banana Latte",
+    "level": 88,
+    "price": 277,
+    "time": 20,
+    "needs": [
+      "Banana",
+      "Coffee Bean"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 168,
+    "time_per_value": 327.0
+  },
+  {
+    "name": "Mango Juice",
+    "level": 97,
+    "price": 230,
+    "time": 50,
+    "needs": [
+      "Mango"
+    ],
+    "source": "Juice Press",
+    "need_value": 100,
+    "time_per_value": 156.0
+  },
+  {
+    "name": "Pumpkin",
+    "level": 15,
+    "price": 32,
+    "time": 180,
+    "needs": [
+      "Pumpkin"
+    ],
+    "source": "Farm",
+    "need_value": 32,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Garlic Bread",
+    "level": 60,
+    "price": 198,
+    "time": 15,
+    "needs": [
+      "Bread",
+      "Butter"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 103,
+    "time_per_value": 380.0
+  },
+  {
+    "name": "Grape Jam",
+    "level": 85,
+    "price": 162,
+    "time": 360,
+    "needs": [
+      "Grapes"
+    ],
+    "source": "Jam Maker",
+    "need_value": 32,
+    "time_per_value": 21.666666
+  },
+  {
+    "name": "Sesame Ice Cream",
+    "level": 50,
+    "price": 176,
+    "time": 120,
+    "needs": [
+      "Cream"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 50,
+    "time_per_value": 63.0
+  },
+  {
+    "name": "Honey Soap",
+    "level": 84,
+    "price": 327,
+    "time": 60,
+    "needs": [
+      "Goat Milk",
+      "Cacao"
+    ],
+    "source": "Bath Kiosk",
+    "need_value": 150,
+    "time_per_value": 177.0
+  },
+  {
+    "name": "Asparagus",
+    "level": 49,
+    "price": 43,
+    "time": 360,
+    "needs": [
+      "Asparagus"
+    ],
+    "source": "Field",
+    "need_value": 43,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Milk Tea",
+    "level": 81,
+    "price": 190,
+    "time": 45,
+    "needs": [
+      "Milk",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 75,
+    "time_per_value": 153.33333
+  },
+  {
+    "name": "Strawberry Candle",
+    "level": 48,
+    "price": 370,
+    "time": 120,
+    "needs": [
+      "Beeswax",
+      "Strawberry"
+    ],
+    "source": "Candle Maker",
+    "need_value": 284,
+    "time_per_value": 43.0
+  },
+  {
+    "name": "Tea Leaf",
+    "level": 80,
+    "price": 43,
+    "time": 360,
+    "needs": [
+      "Tea Leaf"
+    ],
+    "source": "Farm",
+    "need_value": 43,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Corn",
+    "level": 2,
+    "price": 7,
+    "time": 5,
+    "needs": [
+      "Corn"
+    ],
+    "source": "Farm",
+    "need_value": 7,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Lemon Essential Oil",
+    "level": 68,
+    "price": 288,
+    "time": 10,
+    "needs": [],
+    "source": "Lemon",
+    "need_value": 0,
+    "time_per_value": 1728.0
+  },
+  {
+    "name": "Grilled Eggplant",
+    "level": 90,
+    "price": 324,
+    "time": 40,
+    "needs": [
+      "Eggplant",
+      "Salsa"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 266,
+    "time_per_value": 87.0
+  },
+  {
+    "name": "Buttered Popcorn",
+    "level": 16,
+    "price": 126,
+    "time": 60,
+    "needs": [
+      "Butter",
+      "Corn"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 89,
+    "time_per_value": 37.0
+  },
+  {
+    "name": "Roasted Tomatoes",
+    "level": 30,
+    "price": 118,
+    "time": 60,
+    "needs": [
+      "Tomato"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 43,
+    "time_per_value": 75.0
+  },
+  {
+    "name": "Lure",
+    "level": 27,
+    "price": 0,
+    "time": 30,
+    "needs": [
+      "Voucher"
+    ],
+    "source": "Lure Workbench",
+    "need_value": 0,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Veggie Lasagna",
+    "level": 74,
+    "price": 532,
+    "time": 60,
+    "needs": [
+      "Tomato Sauce",
+      "Fresh Pasta"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 273,
+    "time_per_value": 259.0
+  },
+  {
+    "name": "Salsa",
+    "level": 77,
+    "price": 252,
+    "time": 20,
+    "needs": [
+      "Chili Pepper",
+      "Onion"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 75,
+    "time_per_value": 531.0
+  },
+  {
+    "name": "Passion Fruit Pie",
+    "level": 92,
+    "price": 111,
+    "time": 50,
+    "needs": [
+      "Passion Fruit",
+      "Wheat"
+    ],
+    "source": "Pie Oven",
+    "need_value": 21,
+    "time_per_value": 108.0
+  },
+  {
+    "name": "Yogurt Smoothie",
+    "level": 70,
+    "price": 349,
+    "time": 60,
+    "needs": [
+      "Cherry",
+      "Cream"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 118,
+    "time_per_value": 231.0
+  },
+  {
+    "name": "Lemon Fudge",
+    "level": 108,
+    "price": 590,
+    "time": 60,
+    "needs": [
+      "Butter",
+      "Lemon"
+    ],
+    "source": "Fudge Shop",
+    "need_value": 175,
+    "time_per_value": 415.0
+  },
+  {
+    "name": "Pomegranate Cake",
+    "level": 108,
+    "price": 316,
+    "time": 120,
+    "needs": [
+      "Pomegranate",
+      "Egg"
+    ],
+    "source": "Cake Oven",
+    "need_value": 129,
+    "time_per_value": 93.5
+  },
+  {
+    "name": "Rice Ball",
+    "level": 110,
+    "price": 464,
+    "time": 45,
+    "needs": [
+      "Rice",
+      "Sesame"
+    ],
+    "source": "Sushi Bar",
+    "need_value": 36,
+    "time_per_value": 570.6667
+  },
+  {
+    "name": "Grilled Asparagus",
+    "level": 67,
+    "price": 486,
+    "time": 60,
+    "needs": [
+      "Asparagus",
+      "Bacon"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 93,
+    "time_per_value": 393.0
+  },
+  {
+    "name": "Pineapple Cake",
+    "level": 65,
+    "price": 259,
+    "time": 60,
+    "needs": [
+      "Pineapple",
+      "Egg"
+    ],
+    "source": "Cake Oven",
+    "need_value": 32,
+    "time_per_value": 227.0
+  },
+  {
+    "name": "Rice Noodles",
+    "level": 73,
+    "price": 100,
+    "time": 20,
+    "needs": [
+      "Rice"
+    ],
+    "source": "Pasta Maker",
+    "need_value": 18,
+    "time_per_value": 246.0
+  },
+  {
+    "name": "Tea Pot",
+    "level": 94,
+    "price": 219,
+    "time": 180,
+    "needs": [
+      "Clay",
+      "Coffee Bean"
+    ],
+    "source": "Pottery Studio",
+    "need_value": 82,
+    "time_per_value": 45.666668
+  },
+  {
+    "name": "Cotton Candy",
+    "level": 75,
+    "price": 226,
+    "time": 30,
+    "needs": [
+      "White Sugar"
+    ],
+    "source": "Candy Machine",
+    "need_value": 50,
+    "time_per_value": 352.0
+  },
+  {
+    "name": "Sesame",
+    "level": 50,
+    "price": 18,
+    "time": 60,
+    "needs": [
+      "Sesame"
+    ],
+    "source": "Field",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Jelly Beans",
+    "level": 60,
+    "price": 684,
+    "time": 1440,
+    "needs": [
+      "Blackberry Jam",
+      "Raspberry Jam"
+    ],
+    "source": "Candy Machine",
+    "need_value": 640,
+    "time_per_value": 1.8333334
+  },
+  {
+    "name": "Mushroom Salad",
+    "level": 89,
+    "price": 216,
+    "time": 60,
+    "needs": [
+      "Mushroom",
+      "Lettuce"
+    ],
+    "source": "Salad Bar",
+    "need_value": 42,
+    "time_per_value": 174.0
+  },
+  {
+    "name": "Pumpkin Pie",
+    "level": 15,
+    "price": 158,
+    "time": 120,
+    "needs": [
+      "Egg",
+      "Pumpkin"
+    ],
+    "source": "Pie Oven",
+    "need_value": 50,
+    "time_per_value": 54.0
+  },
+  {
+    "name": "Lobster Pasta",
+    "level": 79,
+    "price": 637,
+    "time": 120,
+    "needs": [
+      "Lobster Tail",
+      "Cream"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 251,
+    "time_per_value": 193.0
+  },
+  {
+    "name": "Chamomile Tea",
+    "level": 100,
+    "price": 144,
+    "time": 20,
+    "needs": [
+      "Chamomile",
+      "Honeycomb"
+    ],
+    "source": "Tea Stand",
+    "need_value": 78,
+    "time_per_value": 198.0
+  },
+  {
+    "name": "Feta Salad",
+    "level": 58,
+    "price": 745,
+    "time": 60,
+    "needs": [
+      "Goat Cheese",
+      "Lettuce"
+    ],
+    "source": "Salad Bar",
+    "need_value": 194,
+    "time_per_value": 551.0
+  },
+  {
+    "name": "Olive Oil",
+    "level": 60,
+    "price": 277,
+    "time": 45,
+    "needs": [
+      "Olive"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 82,
+    "time_per_value": 260.0
+  },
+  {
+    "name": "Olive Dip",
+    "level": 66,
+    "price": 468,
+    "time": 45,
+    "needs": [
+      "Olive",
+      "Bread"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 103,
+    "time_per_value": 486.66666
+  },
+  {
+    "name": "Onion",
+    "level": 68,
+    "price": 39,
+    "time": 300,
+    "needs": [
+      "Onion"
+    ],
+    "source": "Farm",
+    "need_value": 39,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Mushroom Pasta",
+    "level": 101,
+    "price": 280,
+    "time": 60,
+    "needs": [
+      "Mushroom",
+      "Fresh Pasta"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 53,
+    "time_per_value": 227.0
+  },
+  {
+    "name": "Blue Woolly Hat",
+    "level": 19,
+    "price": 111,
+    "time": 60,
+    "needs": [
+      "Indigo",
+      "Wool"
+    ],
+    "source": "Loom",
+    "need_value": 79,
+    "time_per_value": 32.0
+  },
+  {
+    "name": "Apple Juice",
+    "level": 28,
+    "price": 129,
+    "time": 120,
+    "needs": [
+      "Apple"
+    ],
+    "source": "Juice Press",
+    "need_value": 39,
+    "time_per_value": 45.0
+  },
+  {
+    "name": "Crunchy Donut",
+    "level": 82,
+    "price": 594,
+    "time": 30,
+    "needs": [
+      "Plain Donut"
+    ],
+    "source": "Donut Maker",
+    "need_value": 129,
+    "time_per_value": 930.0
+  },
+  {
+    "name": "Raspberry",
+    "level": 19,
+    "price": 46,
+    "time": 1080,
+    "needs": [],
+    "source": "Raspberry Bush",
+    "need_value": 0,
+    "time_per_value": 2.5555556
+  },
+  {
+    "name": "Rich Soap",
+    "level": 121,
+    "price": 266,
+    "time": 60,
+    "needs": [
+      "Oats",
+      "Pomegranate",
+      "Coconut"
+    ],
+    "source": "Bath Kiosk",
+    "need_value": 226,
+    "time_per_value": 40.0
+  },
+  {
+    "name": "Plain Donut",
+    "level": 76,
+    "price": 129,
+    "time": 15,
+    "needs": [
+      "Milk"
+    ],
+    "source": "Donut Maker",
+    "need_value": 32,
+    "time_per_value": 388.0
+  },
+  {
+    "name": "Refined Coal",
+    "level": 33,
+    "price": 108,
+    "time": 360,
+    "needs": [
+      "Coal"
+    ],
+    "source": "Smelter",
+    "need_value": 10,
+    "time_per_value": 16.333334
+  },
+  {
+    "name": "Sunflower",
+    "level": 63,
+    "price": 21,
+    "time": 60,
+    "needs": [
+      "Sunflower"
+    ],
+    "source": "Farm",
+    "need_value": 21,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Orange Salad",
+    "level": 117,
+    "price": 558,
+    "time": 45,
+    "needs": [
+      "Cheese",
+      "Lettuce",
+      "Pomegranate",
+      "Orange"
+    ],
+    "source": "Salad Bar",
+    "need_value": 362,
+    "time_per_value": 261.33334
+  },
+  {
+    "name": "Green Smoothie",
+    "level": 66,
+    "price": 320,
+    "time": 45,
+    "needs": [
+      "Apple",
+      "Lemon"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 132,
+    "time_per_value": 250.66667
+  },
+  {
+    "name": "Rice Omelet",
+    "level": 83,
+    "price": 572,
+    "time": 120,
+    "needs": [
+      "Egg",
+      "Tomato Sauce",
+      "Rice"
+    ],
+    "source": "Omelet Station",
+    "need_value": 266,
+    "time_per_value": 153.0
+  },
+  {
+    "name": "Berry Juice",
+    "level": 31,
+    "price": 205,
+    "time": 180,
+    "needs": [
+      "Blackberry",
+      "Raspberry"
+    ],
+    "source": "Juice Press",
+    "need_value": 128,
+    "time_per_value": 25.666666
+  },
+  {
+    "name": "Lemon Lotion",
+    "level": 84,
+    "price": 403,
+    "time": 60,
+    "needs": [
+      "Olive Oil",
+      "Lemon"
+    ],
+    "source": "Bath Kiosk",
+    "need_value": 370,
+    "time_per_value": 33.0
+  },
+  {
+    "name": "Sugarcane",
+    "level": 7,
+    "price": 14,
+    "time": 30,
+    "needs": [
+      "Sugarcane"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Fish Pie",
+    "level": 28,
+    "price": 226,
+    "time": 120,
+    "needs": [
+      "Egg"
+    ],
+    "source": "Pie Oven",
+    "need_value": 18,
+    "time_per_value": 104.0
+  },
+  {
+    "name": "Peanut Fudge",
+    "level": 111,
+    "price": 1141,
+    "time": 60,
+    "needs": [
+      "Butter",
+      "Cacao"
+    ],
+    "source": "Fudge Shop",
+    "need_value": 168,
+    "time_per_value": 973.0
+  },
+  {
+    "name": "Peanut Butter and Jelly Sandwich",
+    "level": 71,
+    "price": 601,
+    "time": 25,
+    "needs": [
+      "Bread"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 21,
+    "time_per_value": 1392.0
+  },
+  {
+    "name": "Cloche Hat",
+    "level": 70,
+    "price": 468,
+    "time": 120,
+    "needs": [
+      "Strawberry",
+      "Wool"
+    ],
+    "source": "Hat Maker",
+    "need_value": 104,
+    "time_per_value": 182.0
+  },
+  {
+    "name": "Cookie Cupcake",
+    "level": 114,
+    "price": 712,
+    "time": 120,
+    "needs": [
+      "Plain Cupcake",
+      "Cream",
+      "Cookie",
+      "Cacao"
+    ],
+    "source": "Cupcake Maker",
+    "need_value": 520,
+    "time_per_value": 96.0
+  },
+  {
+    "name": "Spring Omelet",
+    "level": 77,
+    "price": 230,
+    "time": 40,
+    "needs": [
+      "Egg",
+      "Asparagus"
+    ],
+    "source": "Omelet Station",
+    "need_value": 61,
+    "time_per_value": 253.5
+  },
+  {
+    "name": "Tofu Stir Fry",
+    "level": 89,
+    "price": 306,
+    "time": 60,
+    "needs": [
+      "Soybean",
+      "Onion"
+    ],
+    "source": "Wok Kitchen",
+    "need_value": 49,
+    "time_per_value": 257.0
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "level": 29,
+    "price": 172,
+    "time": 120,
+    "needs": [
+      "Cream"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 50,
+    "time_per_value": 61.0
+  },
+  {
+    "name": "Caffè Mocha",
+    "level": 45,
+    "price": 291,
+    "time": 15,
+    "needs": [
+      "Coffee Bean",
+      "Cream"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 114,
+    "time_per_value": 708.0
+  },
+  {
+    "name": "Peanut Butter Milkshake",
+    "level": 68,
+    "price": 619,
+    "time": 60,
+    "needs": [
+      "Peanuts",
+      "Milk"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 266,
+    "time_per_value": 353.0
+  },
+  {
+    "name": "Mushroom",
+    "level": 89,
+    "price": 10,
+    "time": 20,
+    "needs": [
+      "Mushroom"
+    ],
+    "source": "Farm",
+    "need_value": 10,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Snack Mix",
+    "level": 64,
+    "price": 309,
+    "time": 45,
+    "needs": [
+      "Corn",
+      "Sesame"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 25,
+    "time_per_value": 378.66666
+  },
+  {
+    "name": "Chocolate Pie",
+    "level": 65,
+    "price": 514,
+    "time": 60,
+    "needs": [
+      "Wheat",
+      "Cacao"
+    ],
+    "source": "Pie Oven",
+    "need_value": 89,
+    "time_per_value": 425.0
+  },
+  {
+    "name": "Floral Candle",
+    "level": 95,
+    "price": 442,
+    "time": 120,
+    "needs": [
+      "Beeswax",
+      "Peony"
+    ],
+    "source": "Candle Maker",
+    "need_value": 270,
+    "time_per_value": 86.0
+  },
+  {
+    "name": "Tomato",
+    "level": 30,
+    "price": 43,
+    "time": 360,
+    "needs": [
+      "Tomato"
+    ],
+    "source": "Farm",
+    "need_value": 43,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Hand Pies",
+    "level": 91,
+    "price": 295,
+    "time": 20,
+    "needs": [
+      "Apple Jam",
+      "Egg"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 237,
+    "time_per_value": 174.0
+  },
+  {
+    "name": "Potato Bread",
+    "level": 39,
+    "price": 284,
+    "time": 45,
+    "needs": [
+      "Butter",
+      "Egg"
+    ],
+    "source": "Bakery",
+    "need_value": 100,
+    "time_per_value": 245.33333
+  },
+  {
+    "name": "Hamburger",
+    "level": 18,
+    "price": 180,
+    "time": 120,
+    "needs": [
+      "Bacon",
+      "Bread"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 71,
+    "time_per_value": 54.5
+  },
+  {
+    "name": "Carrot Cake",
+    "level": 21,
+    "price": 165,
+    "time": 60,
+    "needs": [
+      "Brown Sugar",
+      "Butter"
+    ],
+    "source": "Cake Oven",
+    "need_value": 114,
+    "time_per_value": 51.0
+  },
+  {
+    "name": "Summer Salad",
+    "level": 84,
+    "price": 554,
+    "time": 180,
+    "needs": [
+      "Goat Cheese",
+      "Onion"
+    ],
+    "source": "Salad Bar",
+    "need_value": 201,
+    "time_per_value": 117.666664
+  },
+  {
+    "name": "Wooly Chaps",
+    "level": 21,
+    "price": 309,
+    "time": 60,
+    "needs": [
+      "Cotton Fabric",
+      "Wool"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 162,
+    "time_per_value": 147.0
+  },
+  {
+    "name": "Cherry Jam",
+    "level": 38,
+    "price": 334,
+    "time": 420,
+    "needs": [
+      "Cherry"
+    ],
+    "source": "Jam Maker",
+    "need_value": 68,
+    "time_per_value": 38.0
+  },
+  {
+    "name": "Quesadilla",
+    "level": 82,
+    "price": 241,
+    "time": 60,
+    "needs": [
+      "Cheese",
+      "Chili Pepper"
+    ],
+    "source": "Taco Kitchen",
+    "need_value": 158,
+    "time_per_value": 83.0
+  },
+  {
+    "name": "Orange Tea",
+    "level": 89,
+    "price": 255,
+    "time": 40,
+    "needs": [
+      "Orange",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 140,
+    "time_per_value": 172.5
+  },
+  {
+    "name": "Chickpea",
+    "level": 95,
+    "price": 18,
+    "time": 60,
+    "needs": [
+      "Chickpea"
+    ],
+    "source": "Farm",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Pineapple",
+    "level": 52,
+    "price": 14,
+    "time": 30,
+    "needs": [
+      "Pineapple"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Chocolate Waffles",
+    "level": 117,
+    "price": 637,
+    "time": 40,
+    "needs": [
+      "Plain Waffles",
+      "Cacao",
+      "Strawberry",
+      "Banana"
+    ],
+    "source": "Waffle Maker",
+    "need_value": 438,
+    "time_per_value": 298.5
+  },
+  {
+    "name": "Broccoli Pasta",
+    "level": 83,
+    "price": 345,
+    "time": 60,
+    "needs": [
+      "Broccoli",
+      "Cheese"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 143,
+    "time_per_value": 202.0
+  },
+  {
+    "name": "Plum Jam",
+    "level": 94,
+    "price": 385,
+    "time": 300,
+    "needs": [
+      "Plum"
+    ],
+    "source": "Jam Maker",
+    "need_value": 82,
+    "time_per_value": 60.6
+  },
+  {
+    "name": "Caramel Apple",
+    "level": 51,
+    "price": 255,
+    "time": 120,
+    "needs": [
+      "Apple",
+      "Syrup"
+    ],
+    "source": "Candy Machine",
+    "need_value": 129,
+    "time_per_value": 63.0
+  },
+  {
+    "name": "Baked Potato",
+    "level": 35,
+    "price": 298,
+    "time": 35,
+    "needs": [
+      "Cheese",
+      "Chili Pepper"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 158,
+    "time_per_value": 240.00002
+  },
+  {
+    "name": "Honey Toast",
+    "level": 69,
+    "price": 255,
+    "time": 60,
+    "needs": [
+      "Bread",
+      "Egg"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 39,
+    "time_per_value": 216.0
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "level": 39,
+    "price": 342,
+    "time": 120,
+    "needs": [
+      "Cream",
+      "Cacao"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 136,
+    "time_per_value": 103.0
+  },
+  {
+    "name": "Bright Bouquet",
+    "level": 65,
+    "price": 338,
+    "time": 20,
+    "needs": [
+      "Sunflower",
+      "Indigo"
+    ],
+    "source": "Flower Shop",
+    "need_value": 46,
+    "time_per_value": 876.0
+  },
+  {
+    "name": "Colorful Candles",
+    "level": 84,
+    "price": 324,
+    "time": 60,
+    "needs": [
+      "Beeswax"
+    ],
+    "source": "Candle Maker",
+    "need_value": 234,
+    "time_per_value": 90.0
+  },
+  {
+    "name": "Flower Crown",
+    "level": 86,
+    "price": 331,
+    "time": 120,
+    "needs": [
+      "Peony",
+      "Cotton"
+    ],
+    "source": "Hat Maker",
+    "need_value": 64,
+    "time_per_value": 133.5
+  },
+  {
+    "name": "Apple",
+    "level": 15,
+    "price": 39,
+    "time": 960,
+    "needs": [],
+    "source": "Apple Tree",
+    "need_value": 0,
+    "time_per_value": 2.4375
+  },
+  {
+    "name": "Platinum Ore",
+    "level": 24,
+    "price": 32,
+    "time": 0,
+    "needs": [
+      "Supplies"
+    ],
+    "source": "Mine",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Banana Bread",
+    "level": 91,
+    "price": 424,
+    "time": 30,
+    "needs": [
+      "Banana",
+      "Egg"
+    ],
+    "source": "Bakery",
+    "need_value": 122,
+    "time_per_value": 604.0
+  },
+  {
+    "name": "Cheese Fondue",
+    "level": 91,
+    "price": 493,
+    "time": 20,
+    "needs": [
+      "Potato Bread",
+      "Cheese"
+    ],
+    "source": "Fondue Pot",
+    "need_value": 406,
+    "time_per_value": 261.0
+  },
+  {
+    "name": "Flower Shawl",
+    "level": 71,
+    "price": 295,
+    "time": 60,
+    "needs": [
+      "Wool",
+      "Sunflower"
+    ],
+    "source": "Loom",
+    "need_value": 75,
+    "time_per_value": 220.0
+  },
+  {
+    "name": "Birthday Bouquet",
+    "level": 92,
+    "price": 349,
+    "time": 20,
+    "needs": [
+      "Cherry Juice"
+    ],
+    "source": "Flower Shop",
+    "need_value": 216,
+    "time_per_value": 399.0
+  },
+  {
+    "name": "Mint Tea",
+    "level": 97,
+    "price": 255,
+    "time": 35,
+    "needs": [
+      "Tea Leaf",
+      "Mint"
+    ],
+    "source": "Tea Stand",
+    "need_value": 75,
+    "time_per_value": 308.57144
+  },
+  {
+    "name": "Egg",
+    "level": 1,
+    "price": 18,
+    "time": 20,
+    "needs": [
+      "Chicken Feed"
+    ],
+    "source": "Chicken",
+    "need_value": 7,
+    "time_per_value": 33.0
+  },
+  {
+    "name": "Chicken Feed",
+    "level": 3,
+    "price": 7,
+    "time": 5,
+    "needs": [
+      "Corn",
+      "Wheat"
+    ],
+    "source": "Feed Mill",
+    "need_value": 10,
+    "time_per_value": -36.0
+  },
+  {
+    "name": "Bacon Pie",
+    "level": 18,
+    "price": 219,
+    "time": 180,
+    "needs": [
+      "Bacon",
+      "Egg"
+    ],
+    "source": "Pie Oven",
+    "need_value": 68,
+    "time_per_value": 50.333332
+  },
+  {
+    "name": "Rustic Bouquet",
+    "level": 49,
+    "price": 208,
+    "time": 45,
+    "needs": [
+      "Wheat",
+      "Indigo"
+    ],
+    "source": "Flower Shop",
+    "need_value": 28,
+    "time_per_value": 240.0
+  },
+  {
+    "name": "Cotton Fabric",
+    "level": 18,
+    "price": 108,
+    "time": 30,
+    "needs": [
+      "Cotton"
+    ],
+    "source": "Loom",
+    "need_value": 28,
+    "time_per_value": 160.0
+  },
+  {
+    "name": "Cookie",
+    "level": 10,
+    "price": 104,
+    "time": 60,
+    "needs": [
+      "Brown Sugar",
+      "Egg"
+    ],
+    "source": "Bakery",
+    "need_value": 50,
+    "time_per_value": 54.0
+  },
+  {
+    "name": "Colourful Omelet",
+    "level": 77,
+    "price": 136,
+    "time": 60,
+    "needs": [
+      "Egg",
+      "Carrot"
+    ],
+    "source": "Omelet Station",
+    "need_value": 25,
+    "time_per_value": 111.0
+  },
+  {
+    "name": "Veggie Bagel",
+    "level": 61,
+    "price": 532,
+    "time": 40,
+    "needs": [
+      "Bread",
+      "Lettuce"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 53,
+    "time_per_value": 718.5
+  },
+  {
+    "name": "Feta Pie",
+    "level": 34,
+    "price": 223,
+    "time": 60,
+    "needs": [
+      "Egg",
+      "Goat Cheese"
+    ],
+    "source": "Pie Oven",
+    "need_value": 180,
+    "time_per_value": 43.0
+  },
+  {
+    "name": "Onion Soup",
+    "level": 72,
+    "price": 327,
+    "time": 120,
+    "needs": [
+      "Bread",
+      "Cheese"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 143,
+    "time_per_value": 92.0
+  },
+  {
+    "name": "Peach Tart",
+    "level": 76,
+    "price": 435,
+    "time": 120,
+    "needs": [
+      "Cream",
+      "Egg"
+    ],
+    "source": "Pie Oven",
+    "need_value": 68,
+    "time_per_value": 183.5
+  },
+  {
+    "name": "Wool",
+    "level": 16,
+    "price": 54,
+    "time": 360,
+    "needs": [
+      "Sheep Feed"
+    ],
+    "source": "Sheep",
+    "need_value": 14,
+    "time_per_value": 6.6666665
+  },
+  {
+    "name": "Sheep Feed",
+    "level": 16,
+    "price": 14,
+    "time": 30,
+    "needs": [
+      "Soybean",
+      "Wheat"
+    ],
+    "source": "Feed Mill",
+    "need_value": 13,
+    "time_per_value": 2.0
+  },
+  {
+    "name": "Goat Cheese",
+    "level": 33,
+    "price": 162,
+    "time": 60,
+    "needs": [
+      "Goat Milk"
+    ],
+    "source": "Dairy",
+    "need_value": 64,
+    "time_per_value": 98.0
+  },
+  {
+    "name": "Lobster Sushi",
+    "level": 59,
+    "price": 637,
+    "time": 60,
+    "needs": [
+      "Lobster Tail",
+      "Rice"
+    ],
+    "source": "Sushi Bar",
+    "need_value": 219,
+    "time_per_value": 418.0
+  },
+  {
+    "name": "Lemon Pie",
+    "level": 67,
+    "price": 446,
+    "time": 120,
+    "needs": [
+      "Egg",
+      "Lemon Curd"
+    ],
+    "source": "Pie Oven",
+    "need_value": 396,
+    "time_per_value": 25.0
+  },
+  {
+    "name": "Cabbage Soup",
+    "level": 65,
+    "price": 270,
+    "time": 60,
+    "needs": [
+      "Cabbage",
+      "Bacon"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 68,
+    "time_per_value": 202.0
+  },
+  {
+    "name": "Kimchi",
+    "level": 98,
+    "price": 219,
+    "time": 300,
+    "needs": [
+      "Cabbage",
+      "Ginger"
+    ],
+    "source": "Preservation Station",
+    "need_value": 46,
+    "time_per_value": 34.6
+  },
+  {
+    "name": "Plum Smoothie",
+    "level": 102,
+    "price": 522,
+    "time": 35,
+    "needs": [
+      "Plum",
+      "Grapes"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 114,
+    "time_per_value": 699.4286
+  },
+  {
+    "name": "Pomegranate",
+    "level": 107,
+    "price": 111,
+    "time": 1440,
+    "needs": [],
+    "source": "Pomegranate Tree",
+    "need_value": 0,
+    "time_per_value": 4.625
+  },
+  {
+    "name": "Brown Sugar",
+    "level": 7,
+    "price": 32,
+    "time": 20,
+    "needs": [
+      "Sugarcane"
+    ],
+    "source": "Sugar Mill",
+    "need_value": 14,
+    "time_per_value": 54.0
+  },
+  {
+    "name": "Tomato Sauce",
+    "level": 69,
+    "price": 230,
+    "time": 30,
+    "needs": [
+      "Brown Sugar",
+      "Lemon"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 125,
+    "time_per_value": 210.0
+  },
+  {
+    "name": "Orange Juice",
+    "level": 71,
+    "price": 234,
+    "time": 120,
+    "needs": [
+      "Orange"
+    ],
+    "source": "Juice Press",
+    "need_value": 97,
+    "time_per_value": 68.5
+  },
+  {
+    "name": "Summer Rolls",
+    "level": 78,
+    "price": 316,
+    "time": 60,
+    "needs": [
+      "Rice Noodles",
+      "Carrot"
+    ],
+    "source": "Salad Bar",
+    "need_value": 107,
+    "time_per_value": 209.0
+  },
+  {
+    "name": "Cheese Omelet",
+    "level": 79,
+    "price": 464,
+    "time": 60,
+    "needs": [
+      "Egg",
+      "Cheese"
+    ],
+    "source": "Omelet Station",
+    "need_value": 140,
+    "time_per_value": 324.0
+  },
+  {
+    "name": "Blue Sweater",
+    "level": 20,
+    "price": 208,
+    "time": 180,
+    "needs": [
+      "Indigo",
+      "Wool"
+    ],
+    "source": "Loom",
+    "need_value": 79,
+    "time_per_value": 43.0
+  },
+  {
+    "name": "Clay",
+    "level": 94,
+    "price": 18,
+    "time": 60,
+    "needs": [
+      "Clay"
+    ],
+    "source": "Farm",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Banana Split",
+    "level": 96,
+    "price": 403,
+    "time": 180,
+    "needs": [
+      "Banana",
+      "Cherry"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 172,
+    "time_per_value": 77.0
+  },
+  {
+    "name": "Carrot Juice",
+    "level": 26,
+    "price": 46,
+    "time": 30,
+    "needs": [
+      "Carrot"
+    ],
+    "source": "Juice Press",
+    "need_value": 7,
+    "time_per_value": 78.0
+  },
+  {
+    "name": "Onion Dog",
+    "level": 80,
+    "price": 306,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Bread"
+    ],
+    "source": "Hot Dog Stand",
+    "need_value": 71,
+    "time_per_value": 235.0
+  },
+  {
+    "name": "Rice",
+    "level": 56,
+    "price": 18,
+    "time": 45,
+    "needs": [
+      "Rice"
+    ],
+    "source": "Farm",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Orange Sorbet",
+    "level": 78,
+    "price": 399,
+    "time": 180,
+    "needs": [
+      "Honey",
+      "Orange"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 251,
+    "time_per_value": 49.333332
+  },
+  {
+    "name": "Guava",
+    "level": 104,
+    "price": 111,
+    "time": 1440,
+    "needs": [],
+    "source": "Guava Tree",
+    "need_value": 0,
+    "time_per_value": 4.625
+  },
+  {
+    "name": "Guava Compote",
+    "level": 104,
+    "price": 421,
+    "time": 240,
+    "needs": [
+      "Guava",
+      "Lemon",
+      "White Sugar"
+    ],
+    "source": "Preservation Station",
+    "need_value": 254,
+    "time_per_value": 41.75
+  },
+  {
+    "name": "Veggie Bouquet",
+    "level": 106,
+    "price": 352,
+    "time": 15,
+    "needs": [
+      "Broccoli",
+      "Tomato"
+    ],
+    "source": "Flower Shop",
+    "need_value": 64,
+    "time_per_value": 1152.0
+  },
+  {
+    "name": "Mystery Net",
+    "level": 30,
+    "price": 0,
+    "time": 180,
+    "needs": [
+      "Diamond"
+    ],
+    "source": "Net Maker",
+    "need_value": 0,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Winter Stew",
+    "level": 112,
+    "price": 295,
+    "time": 120,
+    "needs": [
+      "Bacon",
+      "Potato",
+      "Onion",
+      "Mushroom"
+    ],
+    "source": "Stew Pot",
+    "need_value": 135,
+    "time_per_value": 80.0
+  },
+  {
+    "name": "Breakfast Bowl",
+    "level": 119,
+    "price": 604,
+    "time": 50,
+    "needs": [
+      "Plain Yogurt",
+      "Oats",
+      "Honey",
+      "Blackberry"
+    ],
+    "source": "Yogurt Maker",
+    "need_value": 477,
+    "time_per_value": 152.40001
+  },
+  {
+    "name": "Indigo",
+    "level": 13,
+    "price": 25,
+    "time": 120,
+    "needs": [
+      "Indigo"
+    ],
+    "source": "Farm",
+    "need_value": 25,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "White Sugar",
+    "level": 13,
+    "price": 50,
+    "time": 40,
+    "needs": [
+      "Sugarcane"
+    ],
+    "source": "Sugar Mill",
+    "need_value": 14,
+    "time_per_value": 54.0
+  },
+  {
+    "name": "Red Berry Cake",
+    "level": 23,
+    "price": 255,
+    "time": 60,
+    "needs": [
+      "Cherry",
+      "Egg"
+    ],
+    "source": "Cake Oven",
+    "need_value": 86,
+    "time_per_value": 169.0
+  },
+  {
+    "name": "Blackberry Muffin",
+    "level": 26,
+    "price": 226,
+    "time": 45,
+    "needs": [
+      "Blackberry",
+      "Egg"
+    ],
+    "source": "Bakery",
+    "need_value": 100,
+    "time_per_value": 168.0
+  },
+  {
+    "name": "Mixed Smoothie",
+    "level": 88,
+    "price": 504,
+    "time": 30,
+    "needs": [
+      "Lemon",
+      "Orange"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 190,
+    "time_per_value": 628.0
+  },
+  {
+    "name": "Filled Donut",
+    "level": 93,
+    "price": 403,
+    "time": 35,
+    "needs": [
+      "Plain Donut"
+    ],
+    "source": "Donut Maker",
+    "need_value": 129,
+    "time_per_value": 469.7143
+  },
+  {
+    "name": "Cucumber Smoothie",
+    "level": 70,
+    "price": 266,
+    "time": 40,
+    "needs": [
+      "Cucumber",
+      "Honey"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 168,
+    "time_per_value": 147.0
+  },
+  {
+    "name": "Mayonnaise",
+    "level": 62,
+    "price": 367,
+    "time": 15,
+    "needs": [
+      "Egg",
+      "Olive Oil"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 295,
+    "time_per_value": 288.0
+  },
+  {
+    "name": "Fish Soup",
+    "level": 53,
+    "price": 298,
+    "time": 180,
+    "needs": [
+      "Carrot",
+      "Fish Fillet"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 61,
+    "time_per_value": 79.0
+  },
+  {
+    "name": "Diamond Ring",
+    "level": 40,
+    "price": 824,
+    "time": 240,
+    "needs": [
+      "Diamond",
+      "Gold Bar"
+    ],
+    "source": "Jeweler",
+    "need_value": 180,
+    "time_per_value": 161.0
+  },
+  {
+    "name": "Iron Bracelet",
+    "level": 41,
+    "price": 658,
+    "time": 60,
+    "needs": [
+      "Iron Bar",
+      "Refined Coal"
+    ],
+    "source": "Jeweler",
+    "need_value": 237,
+    "time_per_value": 421.0
+  },
+  {
+    "name": "Bracelet",
+    "level": 38,
+    "price": 514,
+    "time": 120,
+    "needs": [
+      "Gold Bar",
+      "Silver Bar"
+    ],
+    "source": "Jeweler",
+    "need_value": 327,
+    "time_per_value": 93.5
+  },
+  {
+    "name": "Onion Melt",
+    "level": 84,
+    "price": 417,
+    "time": 60,
+    "needs": [
+      "Corn Bread",
+      "Onion"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 111,
+    "time_per_value": 306.0
+  },
+  {
+    "name": "Ginger Essential Oil",
+    "level": 80,
+    "price": 162,
+    "time": 20,
+    "needs": [
+      "Ginger"
+    ],
+    "source": "Essential Oils Lab",
+    "need_value": 28,
+    "time_per_value": 402.0
+  },
+  {
+    "name": "Oats",
+    "level": 119,
+    "price": 7,
+    "time": 7,
+    "needs": [
+      "Oats"
+    ],
+    "source": "Farm",
+    "need_value": 7,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Ginger",
+    "level": 78,
+    "price": 28,
+    "time": 120,
+    "needs": [
+      "Ginger"
+    ],
+    "source": "Farm",
+    "need_value": 28,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Lollipop",
+    "level": 57,
+    "price": 342,
+    "time": 720,
+    "needs": [
+      "Cherry",
+      "Strawberry"
+    ],
+    "source": "Candy Machine",
+    "need_value": 118,
+    "time_per_value": 18.666666
+  },
+  {
+    "name": "Syrup",
+    "level": 18,
+    "price": 90,
+    "time": 60,
+    "needs": [
+      "Sugarcane"
+    ],
+    "source": "Sugar Mill",
+    "need_value": 14,
+    "time_per_value": 76.0
+  },
+  {
+    "name": "Iron Ore",
+    "level": 34,
+    "price": 14,
+    "time": 0,
+    "needs": [
+      "Supplies"
+    ],
+    "source": "Mine",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Chickpea Stew",
+    "level": 106,
+    "price": 284,
+    "time": 60,
+    "needs": [
+      "Coconut",
+      "Tomato"
+    ],
+    "source": "Stew Pot",
+    "need_value": 151,
+    "time_per_value": 133.0
+  },
+  {
+    "name": "Duck Feather",
+    "level": 50,
+    "price": 140,
+    "time": 180,
+    "needs": [
+      "Duck"
+    ],
+    "source": "Duck Salon",
+    "need_value": 0,
+    "time_per_value": 46.666668
+  },
+  {
+    "name": "Cocoa Smoothie",
+    "level": 100,
+    "price": 511,
+    "time": 40,
+    "needs": [
+      "Banana",
+      "Cacao"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 190,
+    "time_per_value": 481.5
+  },
+  {
+    "name": "Apple Porridge",
+    "level": 119,
+    "price": 522,
+    "time": 20,
+    "needs": [
+      "Apple",
+      "Apple Jam",
+      "Oats"
+    ],
+    "source": "Porridge Bar",
+    "need_value": 265,
+    "time_per_value": 771.0
+  },
+  {
+    "name": "Gnocchi",
+    "level": 72,
+    "price": 475,
+    "time": 60,
+    "needs": [
+      "Potato",
+      "Tomato"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 79,
+    "time_per_value": 396.0
+  },
+  {
+    "name": "Caffè Latte",
+    "level": 43,
+    "price": 219,
+    "time": 10,
+    "needs": [
+      "Coffee Bean",
+      "Milk"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 96,
+    "time_per_value": 738.0
+  },
+  {
+    "name": "Duck Trap",
+    "level": 50,
+    "price": 0,
+    "time": 60,
+    "needs": [],
+    "source": "Net Maker",
+    "need_value": 0,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Pasta Salad",
+    "level": 67,
+    "price": 759,
+    "time": 120,
+    "needs": [
+      "Fresh Pasta",
+      "Lemon"
+    ],
+    "source": "Salad Bar",
+    "need_value": 136,
+    "time_per_value": 311.5
+  },
+  {
+    "name": "Asparagus Quiche",
+    "level": 49,
+    "price": 302,
+    "time": 120,
+    "needs": [
+      "Asparagus",
+      "Egg"
+    ],
+    "source": "Pie Oven",
+    "need_value": 61,
+    "time_per_value": 120.5
+  },
+  {
+    "name": "Mint Ice Cream",
+    "level": 85,
+    "price": 288,
+    "time": 120,
+    "needs": [
+      "Cream",
+      "White Sugar"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 100,
+    "time_per_value": 94.0
+  },
+  {
+    "name": "Cabbage",
+    "level": 65,
+    "price": 18,
+    "time": 45,
+    "needs": [
+      "Cabbage"
+    ],
+    "source": "Farm",
+    "need_value": 18,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Black Sesame Smoothie",
+    "level": 93,
+    "price": 313,
+    "time": 45,
+    "needs": [
+      "Sesame",
+      "Banana"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 122,
+    "time_per_value": 254.66667
+  },
+  {
+    "name": "Pasta Carbonara",
+    "level": 83,
+    "price": 410,
+    "time": 120,
+    "needs": [
+      "Fresh Pasta",
+      "Bacon"
+    ],
+    "source": "Pasta Kitchen",
+    "need_value": 93,
+    "time_per_value": 158.5
+  },
+  {
+    "name": "Samosa",
+    "level": 103,
+    "price": 223,
+    "time": 60,
+    "needs": [
+      "Chickpea",
+      "Wheat"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 21,
+    "time_per_value": 202.0
+  },
+  {
+    "name": "Berry Waffles",
+    "level": 114,
+    "price": 604,
+    "time": 35,
+    "needs": [
+      "Plain Waffles",
+      "Syrup",
+      "Raspberry",
+      "Blackberry"
+    ],
+    "source": "Waffle Maker",
+    "need_value": 416,
+    "time_per_value": 322.28574
+  },
+  {
+    "name": "Beetroot",
+    "level": 72,
+    "price": 14,
+    "time": 40,
+    "needs": [
+      "Beetroot"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Soybean",
+    "level": 5,
+    "price": 10,
+    "time": 20,
+    "needs": [
+      "Soybean"
+    ],
+    "source": "Farm",
+    "need_value": 10,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Spicy Fish",
+    "level": 79,
+    "price": 543,
+    "time": 60,
+    "needs": [
+      "Fish Fillet",
+      "Chili Pepper"
+    ],
+    "source": "Wok Kitchen",
+    "need_value": 90,
+    "time_per_value": 453.0
+  },
+  {
+    "name": "Violet Dress",
+    "level": 25,
+    "price": 327,
+    "time": 120,
+    "needs": [
+      "Cotton Fabric",
+      "Indigo"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 133,
+    "time_per_value": 97.0
+  },
+  {
+    "name": "Sushi Roll",
+    "level": 56,
+    "price": 489,
+    "time": 60,
+    "needs": [
+      "Fish Fillet",
+      "Rice"
+    ],
+    "source": "Sushi Bar",
+    "need_value": 72,
+    "time_per_value": 417.0
+  },
+  {
+    "name": "Cotton",
+    "level": 18,
+    "price": 28,
+    "time": 120,
+    "needs": [
+      "Cotton"
+    ],
+    "source": "Farm",
+    "need_value": 28,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Cacao",
+    "level": 36,
+    "price": 86,
+    "time": 1440,
+    "needs": [],
+    "source": "Cacao Tree",
+    "need_value": 0,
+    "time_per_value": 3.5833333
+  },
+  {
+    "name": "BLT Salad",
+    "level": 62,
+    "price": 723,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Lettuce"
+    ],
+    "source": "Salad Bar",
+    "need_value": 82,
+    "time_per_value": 641.0
+  },
+  {
+    "name": "Tomato Soup",
+    "level": 47,
+    "price": 478,
+    "time": 60,
+    "needs": [
+      "Chili Pepper",
+      "Goat Cheese"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 198,
+    "time_per_value": 280.0
+  },
+  {
+    "name": "Lemon Candle",
+    "level": 72,
+    "price": 457,
+    "time": 120,
+    "needs": [
+      "Beeswax",
+      "Lemon"
+    ],
+    "source": "Candle Maker",
+    "need_value": 327,
+    "time_per_value": 65.0
+  },
+  {
+    "name": "Peach Jam",
+    "level": 79,
+    "price": 464,
+    "time": 480,
+    "needs": [
+      "Peach"
+    ],
+    "source": "Jam Maker",
+    "need_value": 100,
+    "time_per_value": 45.5
+  },
+  {
+    "name": "Seafood Salad",
+    "level": 64,
+    "price": 763,
+    "time": 120,
+    "needs": [
+      "Fish Fillet",
+      "Lettuce"
+    ],
+    "source": "Salad Bar",
+    "need_value": 86,
+    "time_per_value": 338.5
+  },
+  {
+    "name": "Spicy Pizza",
+    "level": 37,
+    "price": 226,
+    "time": 15,
+    "needs": [
+      "Cheese",
+      "Chili Pepper"
+    ],
+    "source": "Bakery",
+    "need_value": 158,
+    "time_per_value": 272.0
+  },
+  {
+    "name": "Bread",
+    "level": 2,
+    "price": 21,
+    "time": 5,
+    "needs": [
+      "Wheat"
+    ],
+    "source": "Bakery",
+    "need_value": 3,
+    "time_per_value": 216.0
+  },
+  {
+    "name": "Bell Pepper Soup",
+    "level": 81,
+    "price": 439,
+    "time": 60,
+    "needs": [
+      "Bread",
+      "Olive Oil"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 298,
+    "time_per_value": 141.0
+  },
+  {
+    "name": "Wheat Bundle",
+    "level": 34,
+    "price": 50,
+    "time": 60,
+    "needs": [
+      "Wheat"
+    ],
+    "source": "Feed Mill",
+    "need_value": 3,
+    "time_per_value": 47.0
+  },
+  {
+    "name": "Raspberry Mocha",
+    "level": 46,
+    "price": 259,
+    "time": 30,
+    "needs": [
+      "Cacao",
+      "Coffee Bean"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 150,
+    "time_per_value": 218.0
+  },
+  {
+    "name": "Fresh Pasta",
+    "level": 67,
+    "price": 43,
+    "time": 15,
+    "needs": [
+      "Egg",
+      "Wheat"
+    ],
+    "source": "Pasta Maker",
+    "need_value": 21,
+    "time_per_value": 88.0
+  },
+  {
+    "name": "Lobster Tail",
+    "level": 44,
+    "price": 201,
+    "time": 360,
+    "needs": [
+      "Lobster"
+    ],
+    "source": "Lobster Pool",
+    "need_value": 0,
+    "time_per_value": 33.5
+  },
+  {
+    "name": "Watermelon",
+    "level": 92,
+    "price": 39,
+    "time": 300,
+    "needs": [
+      "Watermelon"
+    ],
+    "source": "Farm",
+    "need_value": 39,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Meat Bucket",
+    "level": 34,
+    "price": 72,
+    "time": 45,
+    "needs": [
+      "Fish Fillet",
+      "Carrot"
+    ],
+    "source": "Feed Mill",
+    "need_value": 61,
+    "time_per_value": 14.666667
+  },
+  {
+    "name": "Flower Pendant",
+    "level": 98,
+    "price": 698,
+    "time": 60,
+    "needs": [
+      "Peony",
+      "Platinum Bar"
+    ],
+    "source": "Jeweler",
+    "need_value": 241,
+    "time_per_value": 457.0
+  },
+  {
+    "name": "Honey Peanuts",
+    "level": 63,
+    "price": 468,
+    "time": 40,
+    "needs": [
+      "Honey",
+      "Peanuts"
+    ],
+    "source": "Candy Machine",
+    "need_value": 388,
+    "time_per_value": 120.0
+  },
+  {
+    "name": "Cream",
+    "level": 6,
+    "price": 50,
+    "time": 20,
+    "needs": [
+      "Milk"
+    ],
+    "source": "Dairy",
+    "need_value": 32,
+    "time_per_value": 54.0
+  },
+  {
+    "name": "Egg Sandwich",
+    "level": 66,
+    "price": 583,
+    "time": 60,
+    "needs": [
+      "Bread",
+      "Egg"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 39,
+    "time_per_value": 544.0
+  },
+  {
+    "name": "Guava Juice",
+    "level": 104,
+    "price": 252,
+    "time": 55,
+    "needs": [
+      "Guava"
+    ],
+    "source": "Juice Press",
+    "need_value": 111,
+    "time_per_value": 153.81818
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "level": 124,
+    "price": 673,
+    "time": 45,
+    "needs": [
+      "Vanilla Ice Cream",
+      "Cookie",
+      "Toffee",
+      "Syrup"
+    ],
+    "source": "Milkshake Bar",
+    "need_value": 542,
+    "time_per_value": 174.66667
+  },
+  {
+    "name": "Pumpkin Soup",
+    "level": 49,
+    "price": 392,
+    "time": 120,
+    "needs": [
+      "Butter",
+      "Carrot"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 89,
+    "time_per_value": 151.5
+  },
+  {
+    "name": "Tofu Dog",
+    "level": 76,
+    "price": 367,
+    "time": 45,
+    "needs": [
+      "Lettuce",
+      "Soybean"
+    ],
+    "source": "Hot Dog Stand",
+    "need_value": 42,
+    "time_per_value": 433.33334
+  },
+  {
+    "name": "Platinum Bar",
+    "level": 25,
+    "price": 205,
+    "time": 960,
+    "needs": [
+      "Platinum Ore"
+    ],
+    "source": "Smelter",
+    "need_value": 32,
+    "time_per_value": 10.8125
+  },
+  {
+    "name": "Fish Burger",
+    "level": 27,
+    "price": 226,
+    "time": 120,
+    "needs": [
+      "Bread"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 21,
+    "time_per_value": 102.5
+  },
+  {
+    "name": "Blackberry",
+    "level": 26,
+    "price": 82,
+    "time": 1440,
+    "needs": [],
+    "source": "Blackberry Bush",
+    "need_value": 0,
+    "time_per_value": 3.4166667
+  },
+  {
+    "name": "Affogato",
+    "level": 78,
+    "price": 435,
+    "time": 20,
+    "needs": [
+      "Vanilla Ice Cream",
+      "Espresso"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 420,
+    "time_per_value": 45.0
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "level": 86,
+    "price": 273,
+    "time": 30,
+    "needs": [
+      "Wheat",
+      "Butter"
+    ],
+    "source": "Bakery",
+    "need_value": 85,
+    "time_per_value": 376.0
+  },
+  {
+    "name": "Chocolate Fondue",
+    "level": 81,
+    "price": 626,
+    "time": 25,
+    "needs": [
+      "Chocolate",
+      "Strawberry"
+    ],
+    "source": "Fondue Pot",
+    "need_value": 510,
+    "time_per_value": 278.4
+  },
+  {
+    "name": "Silver Ore",
+    "level": 24,
+    "price": 18,
+    "time": 0,
+    "needs": [
+      "Supplies"
+    ],
+    "source": "Mine",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Honey Popcorn",
+    "level": 40,
+    "price": 360,
+    "time": 60,
+    "needs": [
+      "Corn",
+      "Honey"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 161,
+    "time_per_value": 199.0
+  },
+  {
+    "name": "Silver Bar",
+    "level": 24,
+    "price": 147,
+    "time": 480,
+    "needs": [
+      "Silver Ore"
+    ],
+    "source": "Smelter",
+    "need_value": 18,
+    "time_per_value": 16.125
+  },
+  {
+    "name": "Strawberry Cake",
+    "level": 35,
+    "price": 316,
+    "time": 180,
+    "needs": [
+      "Cream",
+      "Strawberry"
+    ],
+    "source": "Cake Oven",
+    "need_value": 100,
+    "time_per_value": 72.0
+  },
+  {
+    "name": "Pancake",
+    "level": 9,
+    "price": 108,
+    "time": 30,
+    "needs": [
+      "Brown Sugar",
+      "Egg"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 50,
+    "time_per_value": 116.0
+  },
+  {
+    "name": "Stuffed Peppers",
+    "level": 80,
+    "price": 352,
+    "time": 20,
+    "needs": [
+      "Bell Pepper",
+      "Bacon"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 86,
+    "time_per_value": 798.0
+  },
+  {
+    "name": "Chocolate Roll",
+    "level": 95,
+    "price": 604,
+    "time": 60,
+    "needs": [
+      "Cacao",
+      "Cream"
+    ],
+    "source": "Cake Oven",
+    "need_value": 136,
+    "time_per_value": 468.0
+  },
+  {
+    "name": "Plum",
+    "level": 94,
+    "price": 82,
+    "time": 1440,
+    "needs": [],
+    "source": "Plum Tree",
+    "need_value": 0,
+    "time_per_value": 3.4166667
+  },
+  {
+    "name": "Cream Cake",
+    "level": 23,
+    "price": 219,
+    "time": 180,
+    "needs": [
+      "Cream",
+      "White Sugar"
+    ],
+    "source": "Cake Oven",
+    "need_value": 100,
+    "time_per_value": 39.666668
+  },
+  {
+    "name": "Winter Veggies",
+    "level": 72,
+    "price": 198,
+    "time": 25,
+    "needs": [
+      "Beetroot",
+      "Carrot"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 21,
+    "time_per_value": 424.80002
+  },
+  {
+    "name": "Hummus",
+    "level": 95,
+    "price": 277,
+    "time": 30,
+    "needs": [
+      "Chickpea",
+      "Lemon"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 111,
+    "time_per_value": 332.0
+  },
+  {
+    "name": "Espresso",
+    "level": 42,
+    "price": 248,
+    "time": 5,
+    "needs": [
+      "Coffee Bean",
+      "White Sugar"
+    ],
+    "source": "Coffee Kiosk",
+    "need_value": 114,
+    "time_per_value": 1608.0
+  },
+  {
+    "name": "Fish Skewer",
+    "level": 96,
+    "price": 176,
+    "time": 30,
+    "needs": [
+      "Fish Fillet",
+      "Mushroom"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 64,
+    "time_per_value": 224.0
+  },
+  {
+    "name": "Strawberry Yogurt",
+    "level": 105,
+    "price": 529,
+    "time": 40,
+    "needs": [
+      "Plain Yogurt",
+      "Strawberry Jam"
+    ],
+    "source": "Yogurt Maker",
+    "need_value": 504,
+    "time_per_value": 37.5
+  },
+  {
+    "name": "Mocha Milkshake",
+    "level": 125,
+    "price": 856,
+    "time": 30,
+    "needs": [
+      "Chocolate Ice Cream",
+      "Espresso"
+    ],
+    "source": "Milkshake Bar",
+    "need_value": 590,
+    "time_per_value": 532.0
+  },
+  {
+    "name": "Fruity Milkshake",
+    "level": 126,
+    "price": 759,
+    "time": 35,
+    "needs": [
+      "Peach Ice Cream",
+      "Orange",
+      "Lemon"
+    ],
+    "source": "Milkshake Bar",
+    "need_value": 640,
+    "time_per_value": 204.0
+  },
+  {
+    "name": "Apple Jam",
+    "level": 35,
+    "price": 219,
+    "time": 360,
+    "needs": [
+      "Apple"
+    ],
+    "source": "Jam Maker",
+    "need_value": 39,
+    "time_per_value": 30.0
+  },
+  {
+    "name": "Taco",
+    "level": 77,
+    "price": 396,
+    "time": 45,
+    "needs": [
+      "Corn Bread",
+      "Bacon"
+    ],
+    "source": "Taco Kitchen",
+    "need_value": 122,
+    "time_per_value": 365.33334
+  },
+  {
+    "name": "Pig Feed",
+    "level": 10,
+    "price": 14,
+    "time": 20,
+    "needs": [
+      "Carrot",
+      "Soybean"
+    ],
+    "source": "Feed Mill",
+    "need_value": 17,
+    "time_per_value": -9.0
+  },
+  {
+    "name": "Top Hat",
+    "level": 72,
+    "price": 619,
+    "time": 180,
+    "needs": [
+      "Cotton Fabric",
+      "Duck Feather"
+    ],
+    "source": "Hat Maker",
+    "need_value": 248,
+    "time_per_value": 123.666664
+  },
+  {
+    "name": "Nachos",
+    "level": 87,
+    "price": 432,
+    "time": 60,
+    "needs": [
+      "Cheese",
+      "Corn"
+    ],
+    "source": "Taco Kitchen",
+    "need_value": 129,
+    "time_per_value": 303.0
+  },
+  {
+    "name": "Cherry",
+    "level": 22,
+    "price": 68,
+    "time": 1440,
+    "needs": [],
+    "source": "Cherry Tree",
+    "need_value": 0,
+    "time_per_value": 2.8333333
+  },
+  {
+    "name": "Noodle Soup",
+    "level": 73,
+    "price": 432,
+    "time": 120,
+    "needs": [
+      "Carrot"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 7,
+    "time_per_value": 212.5
+  },
+  {
+    "name": "Fruit Cake",
+    "level": 89,
+    "price": 450,
+    "time": 180,
+    "needs": [
+      "Cherry",
+      "Grapes"
+    ],
+    "source": "Cake Oven",
+    "need_value": 100,
+    "time_per_value": 116.666664
+  },
+  {
+    "name": "Tropical Fondue",
+    "level": 100,
+    "price": 417,
+    "time": 35,
+    "needs": [
+      "White Sugar",
+      "Cream"
+    ],
+    "source": "Fondue Pot",
+    "need_value": 100,
+    "time_per_value": 543.4286
+  },
+  {
+    "name": "Chili Pepper",
+    "level": 25,
+    "price": 36,
+    "time": 240,
+    "needs": [
+      "Chili Pepper"
+    ],
+    "source": "Farm",
+    "need_value": 36,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Zesty Perfume",
+    "level": 113,
+    "price": 388,
+    "time": 15,
+    "needs": [
+      "Lemon Essential Oil",
+      "Ginger"
+    ],
+    "source": "Perfumerie",
+    "need_value": 316,
+    "time_per_value": 288.0
+  },
+  {
+    "name": "Pizza",
+    "level": 33,
+    "price": 190,
+    "time": 15,
+    "needs": [
+      "Cheese",
+      "Tomato"
+    ],
+    "source": "Bakery",
+    "need_value": 165,
+    "time_per_value": 100.0
+  },
+  {
+    "name": "Fruit Salad",
+    "level": 82,
+    "price": 597,
+    "time": 120,
+    "needs": [
+      "Blackberry",
+      "Honey"
+    ],
+    "source": "Salad Bar",
+    "need_value": 236,
+    "time_per_value": 180.5
+  },
+  {
+    "name": "Raspberry Candle",
+    "level": 52,
+    "price": 360,
+    "time": 60,
+    "needs": [
+      "Beeswax",
+      "Raspberry"
+    ],
+    "source": "Candle Maker",
+    "need_value": 280,
+    "time_per_value": 80.0
+  },
+  {
+    "name": "Peanuts",
+    "level": 62,
+    "price": 234,
+    "time": 0,
+    "needs": [],
+    "source": "Squirrel House",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Honey",
+    "level": 39,
+    "price": 154,
+    "time": 20,
+    "needs": [
+      "Honeycomb"
+    ],
+    "source": "Honey Extractor",
+    "need_value": 68,
+    "time_per_value": 258.0
+  },
+  {
+    "name": "Fried Candy Bar",
+    "level": 100,
+    "price": 658,
+    "time": 15,
+    "needs": [
+      "Cacao",
+      "Cookie"
+    ],
+    "source": "Deep Fryer",
+    "need_value": 190,
+    "time_per_value": 1872.0
+  },
+  {
+    "name": "Plain Yogurt",
+    "level": 103,
+    "price": 234,
+    "time": 120,
+    "needs": [
+      "Milk",
+      "Cream"
+    ],
+    "source": "Yogurt Maker",
+    "need_value": 82,
+    "time_per_value": 76.0
+  },
+  {
+    "name": "Fish and Chips",
+    "level": 41,
+    "price": 244,
+    "time": 60,
+    "needs": [
+      "Fish Fillet",
+      "Potato"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 90,
+    "time_per_value": 154.0
+  },
+  {
+    "name": "Chocolate Cake",
+    "level": 36,
+    "price": 320,
+    "time": 120,
+    "needs": [
+      "Brown Sugar",
+      "Butter"
+    ],
+    "source": "Cake Oven",
+    "need_value": 114,
+    "time_per_value": 103.0
+  },
+  {
+    "name": "Egg Sushi",
+    "level": 63,
+    "price": 550,
+    "time": 120,
+    "needs": [
+      "Brown Sugar",
+      "Egg"
+    ],
+    "source": "Sushi Bar",
+    "need_value": 50,
+    "time_per_value": 250.0
+  },
+  {
+    "name": "Breakfast Waffles",
+    "level": 119,
+    "price": 424,
+    "time": 45,
+    "needs": [
+      "Plain Waffles",
+      "Bacon",
+      "Egg",
+      "Asparagus"
+    ],
+    "source": "Waffle Maker",
+    "need_value": 309,
+    "time_per_value": 153.33333
+  },
+  {
+    "name": "Honeycomb",
+    "level": 39,
+    "price": 68,
+    "time": 0,
+    "needs": [],
+    "source": "Beehive Tree",
+    "need_value": 0,
+    "time_per_value": null
+  },
+  {
+    "name": "Watermelon Juice",
+    "level": 92,
+    "price": 108,
+    "time": 60,
+    "needs": [
+      "Watermelon"
+    ],
+    "source": "Juice Press",
+    "need_value": 39,
+    "time_per_value": 69.0
+  },
+  {
+    "name": "Chamomile Essential Oil",
+    "level": 74,
+    "price": 72,
+    "time": 10,
+    "needs": [
+      "Chamomile"
+    ],
+    "source": "Essential Oils Lab",
+    "need_value": 10,
+    "time_per_value": 372.0
+  },
+  {
+    "name": "Popcorn",
+    "level": 8,
+    "price": 32,
+    "time": 30,
+    "needs": [
+      "Corn"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 7,
+    "time_per_value": 50.0
+  },
+  {
+    "name": "Cow Feed",
+    "level": 6,
+    "price": 14,
+    "time": 10,
+    "needs": [
+      "Corn",
+      "Soybean"
+    ],
+    "source": "Feed Mill",
+    "need_value": 17,
+    "time_per_value": -18.0
+  },
+  {
+    "name": "Lettuce",
+    "level": 58,
+    "price": 32,
+    "time": 180,
+    "needs": [
+      "Lettuce"
+    ],
+    "source": "Farm",
+    "need_value": 32,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Raspberry Muffin",
+    "level": 19,
+    "price": 140,
+    "time": 45,
+    "needs": [
+      "Egg",
+      "Raspberry"
+    ],
+    "source": "Bakery",
+    "need_value": 64,
+    "time_per_value": 101.333336
+  },
+  {
+    "name": "Chili Popcorn",
+    "level": 25,
+    "price": 122,
+    "time": 120,
+    "needs": [
+      "Chili Pepper",
+      "Corn"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 43,
+    "time_per_value": 39.5
+  },
+  {
+    "name": "Goat Milk",
+    "level": 32,
+    "price": 64,
+    "time": 480,
+    "needs": [
+      "Goat Feed"
+    ],
+    "source": "Goat",
+    "need_value": 14,
+    "time_per_value": 6.25
+  },
+  {
+    "name": "Cucumber",
+    "level": 70,
+    "price": 14,
+    "time": 35,
+    "needs": [
+      "Cucumber"
+    ],
+    "source": "Farm",
+    "need_value": 14,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Carrot",
+    "level": 9,
+    "price": 7,
+    "time": 10,
+    "needs": [
+      "Carrot"
+    ],
+    "source": "Farm",
+    "need_value": 7,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Tart Dressing",
+    "level": 100,
+    "price": 288,
+    "time": 30,
+    "needs": [
+      "Passion Fruit",
+      "Chili Pepper"
+    ],
+    "source": "Sauce Maker",
+    "need_value": 54,
+    "time_per_value": 468.0
+  },
+  {
+    "name": "Chocolate",
+    "level": 54,
+    "price": 460,
+    "time": 1200,
+    "needs": [
+      "Cacao",
+      "Cream"
+    ],
+    "source": "Candy Machine",
+    "need_value": 136,
+    "time_per_value": 16.2
+  },
+  {
+    "name": "Orange",
+    "level": 71,
+    "price": 97,
+    "time": 1440,
+    "needs": [],
+    "source": "Orange Tree",
+    "need_value": 0,
+    "time_per_value": 4.0416665
+  },
+  {
+    "name": "Sprinkled Donut",
+    "level": 79,
+    "price": 313,
+    "time": 20,
+    "needs": [
+      "Plain Donut"
+    ],
+    "source": "Donut Maker",
+    "need_value": 129,
+    "time_per_value": 552.0
+  },
+  {
+    "name": "Fresh Diffuser",
+    "level": 110,
+    "price": 349,
+    "time": 20,
+    "needs": [
+      "Ginger Essential Oil",
+      "Mint Essential Oil"
+    ],
+    "source": "Perfumerie",
+    "need_value": 334,
+    "time_per_value": 45.0
+  },
+  {
+    "name": "Grapes",
+    "level": 84,
+    "price": 32,
+    "time": 180,
+    "needs": [
+      "Grapes"
+    ],
+    "source": "Farm",
+    "need_value": 32,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Butter",
+    "level": 9,
+    "price": 82,
+    "time": 30,
+    "needs": [
+      "Milk"
+    ],
+    "source": "Dairy",
+    "need_value": 32,
+    "time_per_value": 100.0
+  },
+  {
+    "name": "Corn Dog",
+    "level": 78,
+    "price": 529,
+    "time": 60,
+    "needs": [
+      "Bacon",
+      "Corn"
+    ],
+    "source": "Hot Dog Stand",
+    "need_value": 57,
+    "time_per_value": 472.0
+  },
+  {
+    "name": "Canned Fish",
+    "level": 95,
+    "price": 471,
+    "time": 180,
+    "needs": [
+      "Fish Fillet",
+      "Chili Pepper"
+    ],
+    "source": "Preservation Station",
+    "need_value": 90,
+    "time_per_value": 127.0
+  },
+  {
+    "name": "Mushroom Pot Pie",
+    "level": 97,
+    "price": 162,
+    "time": 60,
+    "needs": [
+      "Mushroom",
+      "Cabbage"
+    ],
+    "source": "Pie Oven",
+    "need_value": 28,
+    "time_per_value": 134.0
+  },
+  {
+    "name": "Sweet Porridge",
+    "level": 120,
+    "price": 466,
+    "time": 45,
+    "needs": [
+      "Peach",
+      "Honey",
+      "Oats"
+    ],
+    "source": "Porridge Bar",
+    "need_value": 261,
+    "time_per_value": 273.33334
+  },
+  {
+    "name": "Fancy Cake",
+    "level": 54,
+    "price": 450,
+    "time": 15,
+    "needs": [
+      "Cream Cake",
+      "Lily"
+    ],
+    "source": "Cake Oven",
+    "need_value": 240,
+    "time_per_value": 840.0
+  },
+  {
+    "name": "Carrot Pie",
+    "level": 14,
+    "price": 82,
+    "time": 60,
+    "needs": [
+      "Carrot"
+    ],
+    "source": "Pie Oven",
+    "need_value": 7,
+    "time_per_value": 75.0
+  },
+  {
+    "name": "Lobster Skewer",
+    "level": 48,
+    "price": 417,
+    "time": 40,
+    "needs": [
+      "Chili Pepper",
+      "Honey"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 190,
+    "time_per_value": 340.5
+  },
+  {
+    "name": "Calming Diffuser",
+    "level": 116,
+    "price": 169,
+    "time": 25,
+    "needs": [
+      "Chamomile Essential Oil",
+      "Indigo"
+    ],
+    "source": "Perfumerie",
+    "need_value": 97,
+    "time_per_value": 172.8
+  },
+  {
+    "name": "Marmalade",
+    "level": 74,
+    "price": 457,
+    "time": 480,
+    "needs": [
+      "Orange"
+    ],
+    "source": "Jam Maker",
+    "need_value": 97,
+    "time_per_value": 45.0
+  },
+  {
+    "name": "Rich Fudge",
+    "level": 99,
+    "price": 644,
+    "time": 120,
+    "needs": [
+      "Cacao",
+      "Butter"
+    ],
+    "source": "Fudge Shop",
+    "need_value": 168,
+    "time_per_value": 238.0
+  },
+  {
+    "name": "Chocolate Popcorn",
+    "level": 44,
+    "price": 248,
+    "time": 120,
+    "needs": [
+      "Cacao",
+      "Corn"
+    ],
+    "source": "Popcorn Pot",
+    "need_value": 93,
+    "time_per_value": 77.5
+  },
+  {
+    "name": "Frutti di Mare Pizza",
+    "level": 45,
+    "price": 403,
+    "time": 15,
+    "needs": [
+      "Cheese",
+      "Fish Fillet"
+    ],
+    "source": "Bakery",
+    "need_value": 176,
+    "time_per_value": 908.0
+  },
+  {
+    "name": "Fried Rice",
+    "level": 69,
+    "price": 205,
+    "time": 60,
+    "needs": [
+      "Rice",
+      "Egg"
+    ],
+    "source": "Wok Kitchen",
+    "need_value": 36,
+    "time_per_value": 169.0
+  },
+  {
+    "name": "Cream Donut",
+    "level": 86,
+    "price": 230,
+    "time": 25,
+    "needs": [
+      "Plain Donut"
+    ],
+    "source": "Donut Maker",
+    "need_value": 129,
+    "time_per_value": 242.40001
+  },
+  {
+    "name": "Lemon",
+    "level": 66,
+    "price": 93,
+    "time": 1440,
+    "needs": [],
+    "source": "Lemon Tree",
+    "need_value": 0,
+    "time_per_value": 3.875
+  },
+  {
+    "name": "Broccoli Soup",
+    "level": 87,
+    "price": 237,
+    "time": 60,
+    "needs": [
+      "Broccoli",
+      "Onion"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 60,
+    "time_per_value": 177.0
+  },
+  {
+    "name": "Clay Mug",
+    "level": 99,
+    "price": 212,
+    "time": 180,
+    "needs": [
+      "Clay",
+      "Indigo"
+    ],
+    "source": "Pottery Studio",
+    "need_value": 43,
+    "time_per_value": 56.333332
+  },
+  {
+    "name": "Iron Bar",
+    "level": 34,
+    "price": 129,
+    "time": 420,
+    "needs": [
+      "Iron Ore"
+    ],
+    "source": "Smelter",
+    "need_value": 14,
+    "time_per_value": 16.428572
+  },
+  {
+    "name": "Toffee",
+    "level": 52,
+    "price": 176,
+    "time": 60,
+    "needs": [
+      "Butter",
+      "Wheat"
+    ],
+    "source": "Candy Machine",
+    "need_value": 85,
+    "time_per_value": 91.0
+  },
+  {
+    "name": "Goat Cheese Toast",
+    "level": 92,
+    "price": 302,
+    "time": 50,
+    "needs": [
+      "Bread",
+      "Goat Cheese"
+    ],
+    "source": "Sandwich Bar",
+    "need_value": 183,
+    "time_per_value": 142.8
+  },
+  {
+    "name": "Banana",
+    "level": 88,
+    "price": 104,
+    "time": 1440,
+    "needs": [],
+    "source": "Banana Tree",
+    "need_value": 0,
+    "time_per_value": 4.3333335
+  },
+  {
+    "name": "Potato Soup",
+    "level": 78,
+    "price": 255,
+    "time": 120,
+    "needs": [
+      "Milk",
+      "Onion"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 71,
+    "time_per_value": 92.0
+  },
+  {
+    "name": "Soothing Pad",
+    "level": 45,
+    "price": 324,
+    "time": 60,
+    "needs": [
+      "Cotton Fabric",
+      "Wheat"
+    ],
+    "source": "Sewing Machine",
+    "need_value": 111,
+    "time_per_value": 213.0
+  },
+  {
+    "name": "Peanut Noodles",
+    "level": 86,
+    "price": 597,
+    "time": 45,
+    "needs": [
+      "Ginger",
+      "Rice Noodles"
+    ],
+    "source": "Wok Kitchen",
+    "need_value": 128,
+    "time_per_value": 625.3333
+  },
+  {
+    "name": "Lily",
+    "level": 53,
+    "price": 21,
+    "time": 60,
+    "needs": [
+      "Lily"
+    ],
+    "source": "Farm",
+    "need_value": 21,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Fishing Net",
+    "level": 30,
+    "price": 0,
+    "time": 240,
+    "needs": [],
+    "source": "Net Maker",
+    "need_value": 0,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Dried Fruit",
+    "level": 102,
+    "price": 266,
+    "time": 180,
+    "needs": [
+      "Grapes",
+      "Raspberry"
+    ],
+    "source": "Preservation Station",
+    "need_value": 78,
+    "time_per_value": 62.666668
+  },
+  {
+    "name": "Wheat",
+    "level": 1,
+    "price": 3,
+    "time": 2,
+    "needs": [
+      "Wheat"
+    ],
+    "source": "Farm",
+    "need_value": 3,
+    "time_per_value": 0.0
+  },
+  {
+    "name": "Mushroom Soup",
+    "level": 104,
+    "price": 176,
+    "time": 60,
+    "needs": [
+      "Mushroom",
+      "Milk"
+    ],
+    "source": "Soup Kitchen",
+    "need_value": 42,
+    "time_per_value": 134.0
+  },
+  {
+    "name": "Potato Feta Cake",
+    "level": 38,
+    "price": 309,
+    "time": 120,
+    "needs": [
+      "Egg",
+      "Goat Cheese"
+    ],
+    "source": "Cake Oven",
+    "need_value": 180,
+    "time_per_value": 64.5
+  },
+  {
+    "name": "Honey Tea",
+    "level": 83,
+    "price": 313,
+    "time": 40,
+    "needs": [
+      "Honey",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 197,
+    "time_per_value": 174.0
+  },
+  {
+    "name": "Lemon Cake",
+    "level": 68,
+    "price": 896,
+    "time": 120,
+    "needs": [
+      "Cream",
+      "Egg"
+    ],
+    "source": "Cake Oven",
+    "need_value": 68,
+    "time_per_value": 414.0
+  },
+  {
+    "name": "Cherry Popsicle",
+    "level": 33,
+    "price": 352,
+    "time": 180,
+    "needs": [
+      "Cherry Juice",
+      "Syrup"
+    ],
+    "source": "Ice Cream Maker",
+    "need_value": 306,
+    "time_per_value": 15.333333
+  },
+  {
+    "name": "Passion Fruit Juice",
+    "level": 88,
+    "price": 64,
+    "time": 45,
+    "needs": [
+      "Passion Fruit"
+    ],
+    "source": "Juice Press",
+    "need_value": 18,
+    "time_per_value": 61.333332
+  },
+  {
+    "name": "Tropical Smoothie",
+    "level": 104,
+    "price": 475,
+    "time": 40,
+    "needs": [
+      "Coconut",
+      "Banana"
+    ],
+    "source": "Smoothie Mixer",
+    "need_value": 212,
+    "time_per_value": 394.5
+  },
+  {
+    "name": "Pomegranate Tea",
+    "level": 107,
+    "price": 313,
+    "time": 34,
+    "needs": [
+      "Pomegranate",
+      "Tea Leaf"
+    ],
+    "source": "Tea Stand",
+    "need_value": 154,
+    "time_per_value": 280.58823
+  },
+  {
+    "name": "Banana Pancakes",
+    "level": 94,
+    "price": 352,
+    "time": 60,
+    "needs": [
+      "Banana",
+      "Blackberry"
+    ],
+    "source": "BBQ Grill",
+    "need_value": 186,
+    "time_per_value": 166.0
+  },
+  {
+    "name": "Chili Stew",
+    "level": 109,
+    "price": 370,
+    "time": 120,
+    "needs": [
+      "Chili Pepper",
+      "Bacon"
+    ],
+    "source": "Stew Pot",
+    "need_value": 86,
+    "time_per_value": 142.0
+  }
+]

@@ -14,14 +14,14 @@ struct Item {
 }
 
 fn main() {
-    println!("Hello, world!");
-    match read_file_data("./dataFiles/ItemData.txt".to_owned()) {
+    match read_file_data("./dataFiles/ItemDataTest.txt".to_owned()) {
         Ok(string_arr) => match convert_to_struct(string_arr) {
-            Some(item_arr) => write_json_data("Hay day items JSON".to_string(), &item_arr),
+            Some(item_arr) => write_json_data("JSONTEST".to_string(), &item_arr),
             None => println!("Error in convert to struct"),
         },
         Err(e) => eprintln!("Error: {}", e),
     }
+    println!("Done");
 }
 
 fn write_json_data(file_name: String, item_arr: &Vec<Item>) {

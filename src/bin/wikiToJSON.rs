@@ -9,14 +9,14 @@ struct Item {
     level: u32,
     price: u32,
     time: u32,
-    needs: Vec<String>,
+    needs: Vec<(String,i32)>,
     source: String,
 }
 
 fn main() {
-    match read_file_data("./dataFiles/ItemDataTest.txt".to_owned()) {
+    match read_file_data("./dataFiles/rawData/ItemData.txt".to_owned()) {
         Ok(string_arr) => match convert_to_struct(string_arr) {
-            Some(item_arr) => write_json_data("JSONTEST".to_string(), &item_arr),
+            Some(item_arr) => write_json_data("dataJSON".to_string(), &item_arr),
             None => println!("Error in convert to struct"),
         },
         Err(e) => eprintln!("Error: {}", e),
@@ -27,7 +27,7 @@ fn main() {
 fn write_json_data(file_name: String, item_arr: &Vec<Item>) {
     match serde_json::to_string_pretty(item_arr) {
         Ok(item_json) => {
-            match File::create(format!("./dataFiles/{}{}", file_name, ".txt")) {
+            match File::create(format!("./dataFiles/rawJSON/{}{}", file_name, ".txt")) {
                 Ok(mut file) => {
                     match file.write_all(item_json.as_bytes()) {
                         Ok(_) => {},
@@ -64,11 +64,12 @@ fn convert_to_struct(lines: Vec<String>) -> Option<Vec<Item>> {
             let level = extract_level(lines.get(i + 4)?.as_str())?;
             let price = extract_price(lines.get(i + 6)?.as_str())?;
             let time = extract_time(lines.get(i + 8)?.as_str())?;
+            println!("{}",name);
 
             let mut j = i + 12;
-            let mut needs: Vec<String> = Vec::new();
+            let mut needs: Vec<(String,i32)> = Vec::new();
             loop {
-                if let Some(need) = extract_title(lines.get(j)?.as_str()) {
+                if let Some(need) = extract_need(lines.get(j)?.as_str()) {
                     needs.push(need);
                     j = j + 1;
                 } else {
@@ -82,7 +83,6 @@ fn convert_to_struct(lines: Vec<String>) -> Option<Vec<Item>> {
                 needs.len()
             };
             let source = extract_source(lines.get(i + 14 + source_add_index)?.as_str())?;
-
             let cur_item: Item = Item {
                 name: name,
                 level: level,
@@ -103,6 +103,15 @@ fn extract_title(input: &str) -> Option<String> {
 
     if let Some(captures) = re.captures(input) {
         return Some(captures[1].to_string());
+    }
+    None
+}
+
+fn extract_need(input: &str) -> Option<(String,i32)> {
+    let re = Regex::new(r#"<a[^>]*title=\"([^\"]+)\"[^>]*>[^<]+</a>&#160;\((\d+)\)"#).unwrap();
+
+    if let Some(captures) = re.captures(input) {
+        return Some((captures[1].to_string(),captures[2].parse().unwrap_or(999)));
     }
     None
 }
@@ -191,4 +200,14 @@ mod test_cases {
     fn test_time3() {
         assert_eq!(extract_time(r#"<td>3 h"#).unwrap_or(1), 180);
     }
+
+    #[test]
+    fn test_need1() {
+        assert_eq!(extract_need(r#"<p><a href="/wiki/Wheat" title="Wheat">Wheat</a>&#160;(2)"#).unwrap_or(("NO".to_string(),0)), ("Wheat".to_string(),2));
+    }
+    #[test]
+    fn test_need2() {
+        assert_eq!(extract_need(r#"<td><a href="/wiki/Corn" title="Corn">Corn</a>&#160;(1)"#).unwrap_or(("NO".to_string(),0)), ("Corn".to_string(),1));
+    }
+
 }

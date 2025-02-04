@@ -5,7 +5,10 @@
     "price": 3,
     "time": 2,
     "needs": [
-      "Wheat"
+      [
+        "Wheat",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -15,7 +18,10 @@
     "price": 18,
     "time": 20,
     "needs": [
-      "Chicken Feed"
+      [
+        "Chicken Feed",
+        1
+      ]
     ],
     "source": "Chicken"
   },
@@ -25,7 +31,10 @@
     "price": 7,
     "time": 5,
     "needs": [
-      "Corn"
+      [
+        "Corn",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -35,7 +44,10 @@
     "price": 21,
     "time": 5,
     "needs": [
-      "Wheat"
+      [
+        "Wheat",
+        3
+      ]
     ],
     "source": "Bakery"
   },
@@ -45,8 +57,14 @@
     "price": 7,
     "time": 5,
     "needs": [
-      "Corn",
-      "Wheat"
+      [
+        "Corn",
+        1
+      ],
+      [
+        "Wheat",
+        2
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -56,7 +74,10 @@
     "price": 10,
     "time": 20,
     "needs": [
-      "Soybean"
+      [
+        "Soybean",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -66,8 +87,14 @@
     "price": 14,
     "time": 10,
     "needs": [
-      "Corn",
-      "Soybean"
+      [
+        "Corn",
+        1
+      ],
+      [
+        "Soybean",
+        2
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -77,7 +104,10 @@
     "price": 32,
     "time": 60,
     "needs": [
-      "Cow Feed"
+      [
+        "Cow Feed",
+        1
+      ]
     ],
     "source": "Cow"
   },
@@ -87,7 +117,10 @@
     "price": 50,
     "time": 20,
     "needs": [
-      "Milk"
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Dairy"
   },
@@ -97,7 +130,10 @@
     "price": 14,
     "time": 30,
     "needs": [
-      "Sugarcane"
+      [
+        "Sugarcane",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -107,8 +143,14 @@
     "price": 72,
     "time": 30,
     "needs": [
-      "Corn",
-      "Egg"
+      [
+        "Corn",
+        2
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -118,7 +160,10 @@
     "price": 32,
     "time": 20,
     "needs": [
-      "Sugarcane"
+      [
+        "Sugarcane",
+        1
+      ]
     ],
     "source": "Sugar Mill"
   },
@@ -128,7 +173,10 @@
     "price": 32,
     "time": 30,
     "needs": [
-      "Corn"
+      [
+        "Corn",
+        2
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -138,7 +186,10 @@
     "price": 7,
     "time": 10,
     "needs": [
-      "Carrot"
+      [
+        "Carrot",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -148,7 +199,10 @@
     "price": 82,
     "time": 30,
     "needs": [
-      "Milk"
+      [
+        "Milk",
+        2
+      ]
     ],
     "source": "Dairy"
   },
@@ -158,8 +212,14 @@
     "price": 108,
     "time": 30,
     "needs": [
-      "Brown Sugar",
-      "Egg"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Egg",
+        3
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -169,8 +229,14 @@
     "price": 14,
     "time": 20,
     "needs": [
-      "Carrot",
-      "Soybean"
+      [
+        "Carrot",
+        2
+      ],
+      [
+        "Soybean",
+        1
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -180,7 +246,10 @@
     "price": 50,
     "time": 240,
     "needs": [
-      "Pig Feed"
+      [
+        "Pig Feed",
+        1
+      ]
     ],
     "source": "Pig"
   },
@@ -190,8 +259,14 @@
     "price": 104,
     "time": 60,
     "needs": [
-      "Brown Sugar",
-      "Egg"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -201,8 +276,14 @@
     "price": 201,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Egg"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Egg",
+        4
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -212,7 +293,10 @@
     "price": 122,
     "time": 60,
     "needs": [
-      "Milk"
+      [
+        "Milk",
+        3
+      ]
     ],
     "source": "Dairy"
   },
@@ -222,7 +306,10 @@
     "price": 25,
     "time": 120,
     "needs": [
-      "Indigo"
+      [
+        "Indigo",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -232,7 +319,10 @@
     "price": 50,
     "time": 40,
     "needs": [
-      "Sugarcane"
+      [
+        "Sugarcane",
+        2
+      ]
     ],
     "source": "Sugar Mill"
   },
@@ -242,7 +332,10 @@
     "price": 82,
     "time": 60,
     "needs": [
-      "Carrot"
+      [
+        "Carrot",
+        3
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -252,7 +345,10 @@
     "price": 32,
     "time": 180,
     "needs": [
-      "Pumpkin"
+      [
+        "Pumpkin",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -262,8 +358,14 @@
     "price": 158,
     "time": 120,
     "needs": [
-      "Egg",
-      "Pumpkin"
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Pumpkin",
+        3
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -281,8 +383,14 @@
     "price": 14,
     "time": 30,
     "needs": [
-      "Soybean",
-      "Wheat"
+      [
+        "Soybean",
+        1
+      ],
+      [
+        "Wheat",
+        3
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -292,7 +400,10 @@
     "price": 54,
     "time": 360,
     "needs": [
-      "Sheep Feed"
+      [
+        "Sheep Feed",
+        1
+      ]
     ],
     "source": "Sheep"
   },
@@ -302,8 +413,14 @@
     "price": 126,
     "time": 60,
     "needs": [
-      "Butter",
-      "Corn"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Corn",
+        2
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -313,7 +430,10 @@
     "price": 151,
     "time": 120,
     "needs": [
-      "Wool"
+      [
+        "Wool",
+        2
+      ]
     ],
     "source": "Loom"
   },
@@ -323,7 +443,10 @@
     "price": 28,
     "time": 120,
     "needs": [
-      "Cotton"
+      [
+        "Cotton",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -333,8 +456,18 @@
     "price": 219,
     "time": 180,
     "needs": [
-      "Bacon",
-      "Egg"
+      [
+        "Bacon",
+        3
+      ],
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Wheat",
+        2
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -344,7 +477,10 @@
     "price": 90,
     "time": 60,
     "needs": [
-      "Sugarcane"
+      [
+        "Sugarcane",
+        4
+      ]
     ],
     "source": "Sugar Mill"
   },
@@ -354,7 +490,10 @@
     "price": 108,
     "time": 30,
     "needs": [
-      "Cotton"
+      [
+        "Cotton",
+        3
+      ]
     ],
     "source": "Loom"
   },
@@ -364,8 +503,14 @@
     "price": 180,
     "time": 120,
     "needs": [
-      "Bacon",
-      "Bread"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Bread",
+        2
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -383,8 +528,14 @@
     "price": 140,
     "time": 45,
     "needs": [
-      "Egg",
-      "Raspberry"
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Raspberry",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -394,8 +545,14 @@
     "price": 111,
     "time": 60,
     "needs": [
-      "Indigo",
-      "Wool"
+      [
+        "Indigo",
+        1
+      ],
+      [
+        "Wool",
+        1
+      ]
     ],
     "source": "Loom"
   },
@@ -405,7 +562,10 @@
     "price": 241,
     "time": 45,
     "needs": [
-      "Cotton Fabric"
+      [
+        "Cotton Fabric",
+        2
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -415,8 +575,14 @@
     "price": 208,
     "time": 180,
     "needs": [
-      "Indigo",
-      "Wool"
+      [
+        "Indigo",
+        2
+      ],
+      [
+        "Wool",
+        2
+      ]
     ],
     "source": "Loom"
   },
@@ -426,8 +592,14 @@
     "price": 165,
     "time": 60,
     "needs": [
-      "Brown Sugar",
-      "Butter"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Butter",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -437,8 +609,14 @@
     "price": 309,
     "time": 60,
     "needs": [
-      "Cotton Fabric",
-      "Wool"
+      [
+        "Cotton Fabric",
+        1
+      ],
+      [
+        "Wool",
+        3
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -456,8 +634,14 @@
     "price": 219,
     "time": 180,
     "needs": [
-      "Cream",
-      "White Sugar"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "White Sugar",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -467,8 +651,14 @@
     "price": 255,
     "time": 60,
     "needs": [
-      "Cherry",
-      "Egg"
+      [
+        "Cherry",
+        2
+      ],
+      [
+        "Egg",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -478,7 +668,10 @@
     "price": 284,
     "time": 240,
     "needs": [
-      "Cheese"
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -487,9 +680,7 @@
     "level": 24,
     "price": 18,
     "time": 0,
-    "needs": [
-      "Supplies"
-    ],
+    "needs": [],
     "source": "Mine"
   },
   {
@@ -497,9 +688,7 @@
     "level": 24,
     "price": 21,
     "time": 0,
-    "needs": [
-      "Supplies"
-    ],
+    "needs": [],
     "source": "Mine"
   },
   {
@@ -507,9 +696,7 @@
     "level": 24,
     "price": 32,
     "time": 0,
-    "needs": [
-      "Supplies"
-    ],
+    "needs": [],
     "source": "Mine"
   },
   {
@@ -518,7 +705,10 @@
     "price": 147,
     "time": 480,
     "needs": [
-      "Silver Ore"
+      [
+        "Silver Ore",
+        3
+      ]
     ],
     "source": "Smelter"
   },
@@ -528,7 +718,10 @@
     "price": 36,
     "time": 240,
     "needs": [
-      "Chili Pepper"
+      [
+        "Chili Pepper",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -538,8 +731,14 @@
     "price": 122,
     "time": 120,
     "needs": [
-      "Chili Pepper",
-      "Corn"
+      [
+        "Chili Pepper",
+        2
+      ],
+      [
+        "Corn",
+        2
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -549,7 +748,10 @@
     "price": 180,
     "time": 720,
     "needs": [
-      "Gold Ore"
+      [
+        "Gold Ore",
+        3
+      ]
     ],
     "source": "Smelter"
   },
@@ -559,7 +761,10 @@
     "price": 205,
     "time": 960,
     "needs": [
-      "Platinum Ore"
+      [
+        "Platinum Ore",
+        3
+      ]
     ],
     "source": "Smelter"
   },
@@ -569,8 +774,14 @@
     "price": 327,
     "time": 120,
     "needs": [
-      "Cotton Fabric",
-      "Indigo"
+      [
+        "Cotton Fabric",
+        2
+      ],
+      [
+        "Indigo",
+        1
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -588,8 +799,14 @@
     "price": 226,
     "time": 45,
     "needs": [
-      "Blackberry",
-      "Egg"
+      [
+        "Blackberry",
+        2
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -599,7 +816,10 @@
     "price": 46,
     "time": 30,
     "needs": [
-      "Carrot"
+      [
+        "Carrot",
+        3
+      ]
     ],
     "source": "Juice Press"
   },
@@ -617,7 +837,10 @@
     "price": 0,
     "time": 60,
     "needs": [
-      "Voucher"
+      [
+        "Voucher",
+        1
+      ]
     ],
     "source": "Lure Workbench"
   },
@@ -627,7 +850,10 @@
     "price": 0,
     "time": 60,
     "needs": [
-      "Voucher"
+      [
+        "Voucher",
+        1
+      ]
     ],
     "source": "Lure Workbench"
   },
@@ -637,7 +863,10 @@
     "price": 0,
     "time": 45,
     "needs": [
-      "Voucher"
+      [
+        "Voucher",
+        1
+      ]
     ],
     "source": "Lure Workbench"
   },
@@ -647,7 +876,10 @@
     "price": 0,
     "time": 30,
     "needs": [
-      "Voucher"
+      [
+        "Voucher",
+        1
+      ]
     ],
     "source": "Lure Workbench"
   },
@@ -657,8 +889,14 @@
     "price": 54,
     "time": 0,
     "needs": [
-      "Lure",
-      "Fishing Net"
+      [
+        "Lure",
+        1
+      ],
+      [
+        "Fishing Net",
+        1
+      ]
     ],
     "source": "Fish"
   },
@@ -668,7 +906,10 @@
     "price": 226,
     "time": 120,
     "needs": [
-      "Bread"
+      [
+        "Bread",
+        2
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -678,8 +919,14 @@
     "price": 270,
     "time": 120,
     "needs": [
-      "Apple",
-      "Egg"
+      [
+        "Apple",
+        3
+      ],
+      [
+        "Egg",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -689,7 +936,10 @@
     "price": 226,
     "time": 120,
     "needs": [
-      "Egg"
+      [
+        "Egg",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -699,7 +949,10 @@
     "price": 129,
     "time": 120,
     "needs": [
-      "Apple"
+      [
+        "Apple",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -709,7 +962,10 @@
     "price": 172,
     "time": 120,
     "needs": [
-      "Cream"
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -719,7 +975,10 @@
     "price": 43,
     "time": 360,
     "needs": [
-      "Tomato"
+      [
+        "Tomato",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -729,7 +988,10 @@
     "price": 118,
     "time": 60,
     "needs": [
-      "Tomato"
+      [
+        "Tomato",
+        2
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -739,7 +1001,10 @@
     "price": 216,
     "time": 120,
     "needs": [
-      "Cherry"
+      [
+        "Cherry",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -757,7 +1022,10 @@
     "price": 0,
     "time": 180,
     "needs": [
-      "Diamond"
+      [
+        "Diamond",
+        5
+      ]
     ],
     "source": "Net Maker"
   },
@@ -767,7 +1035,10 @@
     "price": 162,
     "time": 60,
     "needs": [
-      "Tomato"
+      [
+        "Tomato",
+        3
+      ]
     ],
     "source": "Juice Press"
   },
@@ -777,8 +1048,14 @@
     "price": 205,
     "time": 180,
     "needs": [
-      "Blackberry",
-      "Raspberry"
+      [
+        "Blackberry",
+        1
+      ],
+      [
+        "Raspberry",
+        1
+      ]
     ],
     "source": "Juice Press"
   },
@@ -788,8 +1065,14 @@
     "price": 14,
     "time": 40,
     "needs": [
-      "Carrot",
-      "Corn"
+      [
+        "Carrot",
+        2
+      ],
+      [
+        "Corn",
+        1
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -799,7 +1082,10 @@
     "price": 64,
     "time": 480,
     "needs": [
-      "Goat Feed"
+      [
+        "Goat Feed",
+        1
+      ]
     ],
     "source": "Goat"
   },
@@ -809,7 +1095,10 @@
     "price": 162,
     "time": 60,
     "needs": [
-      "Goat Milk"
+      [
+        "Goat Milk",
+        2
+      ]
     ],
     "source": "Dairy"
   },
@@ -819,8 +1108,14 @@
     "price": 190,
     "time": 15,
     "needs": [
-      "Cheese",
-      "Tomato"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Tomato",
+        1
+      ]
     ],
     "source": "Bakery"
   },
@@ -829,9 +1124,7 @@
     "level": 33,
     "price": 10,
     "time": 0,
-    "needs": [
-      "Supplies"
-    ],
+    "needs": [],
     "source": "Mine"
   },
   {
@@ -840,7 +1133,10 @@
     "price": 108,
     "time": 360,
     "needs": [
-      "Coal"
+      [
+        "Coal",
+        3
+      ]
     ],
     "source": "Smelter"
   },
@@ -850,8 +1146,14 @@
     "price": 352,
     "time": 180,
     "needs": [
-      "Cherry Juice",
-      "Syrup"
+      [
+        "Cherry Juice",
+        1
+      ],
+      [
+        "Syrup",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -861,7 +1163,10 @@
     "price": 50,
     "time": 480,
     "needs": [
-      "Strawberry"
+      [
+        "Strawberry",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -871,8 +1176,14 @@
     "price": 223,
     "time": 60,
     "needs": [
-      "Egg",
-      "Goat Cheese"
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Goat Cheese",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -881,9 +1192,7 @@
     "level": 34,
     "price": 14,
     "time": 0,
-    "needs": [
-      "Supplies"
-    ],
+    "needs": [],
     "source": "Mine"
   },
   {
@@ -892,7 +1201,10 @@
     "price": 129,
     "time": 420,
     "needs": [
-      "Iron Ore"
+      [
+        "Iron Ore",
+        3
+      ]
     ],
     "source": "Smelter"
   },
@@ -902,8 +1214,14 @@
     "price": 331,
     "time": 240,
     "needs": [
-      "Cream",
-      "Milk"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -913,7 +1231,10 @@
     "price": 50,
     "time": 60,
     "needs": [
-      "Wheat"
+      [
+        "Wheat",
+        75
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -923,8 +1244,14 @@
     "price": 72,
     "time": 45,
     "needs": [
-      "Fish Fillet",
-      "Carrot"
+      [
+        "Fish Fillet",
+        3
+      ],
+      [
+        "Carrot",
+        5
+      ]
     ],
     "source": "Feed Mill"
   },
@@ -934,7 +1261,10 @@
     "price": 36,
     "time": 180,
     "needs": [
-      "Potato"
+      [
+        "Potato",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -944,8 +1274,14 @@
     "price": 316,
     "time": 180,
     "needs": [
-      "Cream",
-      "Strawberry"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Strawberry",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -955,8 +1291,14 @@
     "price": 298,
     "time": 35,
     "needs": [
-      "Cheese",
-      "Chili Pepper"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Chili Pepper",
+        1
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -966,7 +1308,10 @@
     "price": 219,
     "time": 360,
     "needs": [
-      "Apple"
+      [
+        "Apple",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -976,8 +1321,14 @@
     "price": 320,
     "time": 120,
     "needs": [
-      "Brown Sugar",
-      "Butter"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Butter",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -987,8 +1338,14 @@
     "price": 367,
     "time": 120,
     "needs": [
-      "Bacon",
-      "Cheese"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -1006,7 +1363,10 @@
     "price": 252,
     "time": 420,
     "needs": [
-      "Raspberry"
+      [
+        "Raspberry",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -1016,8 +1376,14 @@
     "price": 226,
     "time": 15,
     "needs": [
-      "Cheese",
-      "Chili Pepper"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Chili Pepper",
+        1
+      ]
     ],
     "source": "Bakery"
   },
@@ -1027,7 +1393,10 @@
     "price": 388,
     "time": 480,
     "needs": [
-      "Blackberry"
+      [
+        "Blackberry",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -1037,8 +1406,14 @@
     "price": 309,
     "time": 120,
     "needs": [
-      "Egg",
-      "Goat Cheese"
+      [
+        "Egg",
+        4
+      ],
+      [
+        "Goat Cheese",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -1048,7 +1423,10 @@
     "price": 334,
     "time": 420,
     "needs": [
-      "Cherry"
+      [
+        "Cherry",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -1058,8 +1436,14 @@
     "price": 514,
     "time": 120,
     "needs": [
-      "Gold Bar",
-      "Silver Bar"
+      [
+        "Gold Bar",
+        1
+      ],
+      [
+        "Silver Bar",
+        2
+      ]
     ],
     "source": "Jeweler"
   },
@@ -1069,19 +1453,31 @@
     "price": 284,
     "time": 45,
     "needs": [
-      "Butter",
-      "Egg"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Egg",
+        3
+      ]
     ],
     "source": "Bakery"
   },
   {
-    "name": "Shepherd&#39;s Pie", 
+    "name": "Shepherd&#39;s Pie",
     "level": 39,
     "price": 280,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Carrot"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -1091,8 +1487,14 @@
     "price": 342,
     "time": 120,
     "needs": [
-      "Cream",
-      "Cacao"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Cacao",
+        2
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -1110,8 +1512,14 @@
     "price": 727,
     "time": 180,
     "needs": [
-      "Gold Bar",
-      "Platinum Bar"
+      [
+        "Gold Bar",
+        1
+      ],
+      [
+        "Platinum Bar",
+        1
+      ]
     ],
     "source": "Jeweler"
   },
@@ -1121,7 +1529,10 @@
     "price": 154,
     "time": 20,
     "needs": [
-      "Honeycomb"
+      [
+        "Honeycomb",
+        2
+      ]
     ],
     "source": "Honey Extractor"
   },
@@ -1131,8 +1542,14 @@
     "price": 360,
     "time": 60,
     "needs": [
-      "Corn",
-      "Honey"
+      [
+        "Corn",
+        2
+      ],
+      [
+        "Honey",
+        2
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -1142,8 +1559,14 @@
     "price": 824,
     "time": 240,
     "needs": [
-      "Diamond",
-      "Gold Bar"
+      [
+        "Diamond",
+        1
+      ],
+      [
+        "Gold Bar",
+        2
+      ]
     ],
     "source": "Jeweler"
   },
@@ -1153,8 +1576,14 @@
     "price": 244,
     "time": 60,
     "needs": [
-      "Fish Fillet",
-      "Potato"
+      [
+        "Fish Fillet",
+        2
+      ],
+      [
+        "Potato",
+        3
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -1164,8 +1593,14 @@
     "price": 658,
     "time": 60,
     "needs": [
-      "Iron Bar",
-      "Refined Coal"
+      [
+        "Iron Bar",
+        2
+      ],
+      [
+        "Refined Coal",
+        2
+      ]
     ],
     "source": "Jeweler"
   },
@@ -1183,8 +1618,14 @@
     "price": 248,
     "time": 5,
     "needs": [
-      "Coffee Bean",
-      "White Sugar"
+      [
+        "Coffee Bean",
+        3
+      ],
+      [
+        "White Sugar",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1194,8 +1635,14 @@
     "price": 482,
     "time": 180,
     "needs": [
-      "Apple",
-      "Egg"
+      [
+        "Apple",
+        2
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -1205,8 +1652,14 @@
     "price": 219,
     "time": 10,
     "needs": [
-      "Coffee Bean",
-      "Milk"
+      [
+        "Coffee Bean",
+        2
+      ],
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1216,8 +1669,14 @@
     "price": 248,
     "time": 120,
     "needs": [
-      "Cacao",
-      "Corn"
+      [
+        "Cacao",
+        2
+      ],
+      [
+        "Corn",
+        2
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -1234,9 +1693,7 @@
     "level": 44,
     "price": 201,
     "time": 360,
-    "needs": [
-      "Lobster"
-    ],
+    "needs": [],
     "source": "Lobster Pool"
   },
   {
@@ -1245,8 +1702,14 @@
     "price": 403,
     "time": 15,
     "needs": [
-      "Cheese",
-      "Fish Fillet"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Fish Fillet",
+        1
+      ]
     ],
     "source": "Bakery"
   },
@@ -1256,8 +1719,14 @@
     "price": 291,
     "time": 15,
     "needs": [
-      "Coffee Bean",
-      "Cream"
+      [
+        "Coffee Bean",
+        1
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1267,7 +1736,10 @@
     "price": 10,
     "time": 20,
     "needs": [
-      "Chamomile"
+      [
+        "Chamomile",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1277,8 +1749,14 @@
     "price": 324,
     "time": 60,
     "needs": [
-      "Cotton Fabric",
-      "Wheat"
+      [
+        "Cotton Fabric",
+        2
+      ],
+      [
+        "Wheat",
+        5
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -1288,8 +1766,14 @@
     "price": 259,
     "time": 30,
     "needs": [
-      "Cacao",
-      "Coffee Bean"
+      [
+        "Cacao",
+        1
+      ],
+      [
+        "Coffee Bean",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1299,8 +1783,14 @@
     "price": 612,
     "time": 120,
     "needs": [
-      "Chili Pepper",
-      "Cream"
+      [
+        "Chili Pepper",
+        2
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1310,8 +1800,14 @@
     "price": 316,
     "time": 25,
     "needs": [
-      "Cacao",
-      "Cream"
+      [
+        "Cacao",
+        2
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1321,8 +1817,14 @@
     "price": 478,
     "time": 60,
     "needs": [
-      "Chili Pepper",
-      "Goat Cheese"
+      [
+        "Chili Pepper",
+        1
+      ],
+      [
+        "Goat Cheese",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1332,8 +1834,14 @@
     "price": 288,
     "time": 120,
     "needs": [
-      "Strawberry",
-      "Wool"
+      [
+        "Strawberry",
+        2
+      ],
+      [
+        "Wool",
+        2
+      ]
     ],
     "source": "Loom"
   },
@@ -1343,8 +1851,14 @@
     "price": 417,
     "time": 40,
     "needs": [
-      "Chili Pepper",
-      "Honey"
+      [
+        "Chili Pepper",
+        1
+      ],
+      [
+        "Honey",
+        1
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -1354,7 +1868,10 @@
     "price": 234,
     "time": 45,
     "needs": [
-      "Honeycomb"
+      [
+        "Honeycomb",
+        3
+      ]
     ],
     "source": "Honey Extractor"
   },
@@ -1364,8 +1881,14 @@
     "price": 370,
     "time": 120,
     "needs": [
-      "Beeswax",
-      "Strawberry"
+      [
+        "Beeswax",
+        1
+      ],
+      [
+        "Strawberry",
+        2
+      ]
     ],
     "source": "Candle Maker"
   },
@@ -1375,8 +1898,14 @@
     "price": 208,
     "time": 45,
     "needs": [
-      "Wheat",
-      "Indigo"
+      [
+        "Wheat",
+        5
+      ],
+      [
+        "Indigo",
+        3
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -1386,8 +1915,14 @@
     "price": 392,
     "time": 120,
     "needs": [
-      "Butter",
-      "Carrot"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1397,7 +1932,10 @@
     "price": 43,
     "time": 360,
     "needs": [
-      "Asparagus"
+      [
+        "Asparagus",
+        1
+      ]
     ],
     "source": "Field"
   },
@@ -1407,8 +1945,14 @@
     "price": 302,
     "time": 120,
     "needs": [
-      "Asparagus",
-      "Egg"
+      [
+        "Asparagus",
+        2
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -1418,7 +1962,10 @@
     "price": 270,
     "time": 420,
     "needs": [
-      "Strawberry"
+      [
+        "Strawberry",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -1435,9 +1982,7 @@
     "level": 50,
     "price": 140,
     "time": 180,
-    "needs": [
-      "Duck"
-    ],
+    "needs": [],
     "source": "Duck Salon"
   },
   {
@@ -1446,7 +1991,10 @@
     "price": 18,
     "time": 60,
     "needs": [
-      "Sesame"
+      [
+        "Sesame",
+        1
+      ]
     ],
     "source": "Field"
   },
@@ -1456,7 +2004,10 @@
     "price": 176,
     "time": 120,
     "needs": [
-      "Cream"
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -1466,8 +2017,14 @@
     "price": 255,
     "time": 120,
     "needs": [
-      "Apple",
-      "Syrup"
+      [
+        "Apple",
+        1
+      ],
+      [
+        "Syrup",
+        2
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1477,8 +2034,14 @@
     "price": 676,
     "time": 180,
     "needs": [
-      "Cotton Fabric",
-      "Duck Feather"
+      [
+        "Cotton Fabric",
+        2
+      ],
+      [
+        "Duck Feather",
+        3
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -1488,8 +2051,14 @@
     "price": 255,
     "time": 60,
     "needs": [
-      "Asparagus",
-      "Cream"
+      [
+        "Asparagus",
+        3
+      ],
+      [
+        "Cream",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1499,8 +2068,14 @@
     "price": 176,
     "time": 60,
     "needs": [
-      "Butter",
-      "Wheat"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Wheat",
+        1
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1510,8 +2085,14 @@
     "price": 360,
     "time": 60,
     "needs": [
-      "Beeswax",
-      "Raspberry"
+      [
+        "Beeswax",
+        1
+      ],
+      [
+        "Raspberry",
+        2
+      ]
     ],
     "source": "Candle Maker"
   },
@@ -1521,7 +2102,10 @@
     "price": 14,
     "time": 30,
     "needs": [
-      "Pineapple"
+      [
+        "Pineapple",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1531,7 +2115,10 @@
     "price": 68,
     "time": 45,
     "needs": [
-      "Pineapple"
+      [
+        "Pineapple",
+        3
+      ]
     ],
     "source": "Juice Press"
   },
@@ -1541,8 +2128,14 @@
     "price": 298,
     "time": 180,
     "needs": [
-      "Carrot",
-      "Fish Fillet"
+      [
+        "Carrot",
+        1
+      ],
+      [
+        "Fish Fillet",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1552,7 +2145,10 @@
     "price": 21,
     "time": 60,
     "needs": [
-      "Lily"
+      [
+        "Lily",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1562,8 +2158,14 @@
     "price": 154,
     "time": 180,
     "needs": [
-      "Soybean",
-      "Wheat"
+      [
+        "Soybean",
+        9
+      ],
+      [
+        "Wheat",
+        1
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -1573,8 +2175,14 @@
     "price": 460,
     "time": 1200,
     "needs": [
-      "Cacao",
-      "Cream"
+      [
+        "Cacao",
+        3
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1584,8 +2192,14 @@
     "price": 450,
     "time": 15,
     "needs": [
-      "Cream Cake",
-      "Lily"
+      [
+        "Cream Cake",
+        1
+      ],
+      [
+        "Lily",
+        3
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -1595,7 +2209,10 @@
     "price": 18,
     "time": 45,
     "needs": [
-      "Rice"
+      [
+        "Rice",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1605,8 +2222,14 @@
     "price": 489,
     "time": 60,
     "needs": [
-      "Fish Fillet",
-      "Rice"
+      [
+        "Fish Fillet",
+        1
+      ],
+      [
+        "Rice",
+        15
+      ]
     ],
     "source": "Sushi Bar"
   },
@@ -1624,8 +2247,14 @@
     "price": 342,
     "time": 720,
     "needs": [
-      "Cherry",
-      "Strawberry"
+      [
+        "Cherry",
+        1
+      ],
+      [
+        "Strawberry",
+        2
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1635,7 +2264,10 @@
     "price": 32,
     "time": 180,
     "needs": [
-      "Lettuce"
+      [
+        "Lettuce",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1645,8 +2277,14 @@
     "price": 745,
     "time": 60,
     "needs": [
-      "Goat Cheese",
-      "Lettuce"
+      [
+        "Goat Cheese",
+        2
+      ],
+      [
+        "Lettuce",
+        3
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -1656,8 +2294,14 @@
     "price": 637,
     "time": 60,
     "needs": [
-      "Lobster Tail",
-      "Rice"
+      [
+        "Lobster Tail",
+        1
+      ],
+      [
+        "Rice",
+        15
+      ]
     ],
     "source": "Sushi Bar"
   },
@@ -1667,8 +2311,14 @@
     "price": 1098,
     "time": 180,
     "needs": [
-      "Cotton Fabric",
-      "Duck Feather"
+      [
+        "Cotton Fabric",
+        3
+      ],
+      [
+        "Duck Feather",
+        5
+      ]
     ],
     "source": "Sewing Machine"
   },
@@ -1678,8 +2328,14 @@
     "price": 684,
     "time": 1440,
     "needs": [
-      "Blackberry Jam",
-      "Raspberry Jam"
+      [
+        "Blackberry Jam",
+        1
+      ],
+      [
+        "Raspberry Jam",
+        1
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1689,7 +2345,10 @@
     "price": 277,
     "time": 45,
     "needs": [
-      "Olive"
+      [
+        "Olive",
+        3
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -1699,7 +2358,10 @@
     "price": 14,
     "time": 30,
     "needs": [
-      "Garlic"
+      [
+        "Garlic",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1709,8 +2371,14 @@
     "price": 198,
     "time": 15,
     "needs": [
-      "Bread",
-      "Butter"
+      [
+        "Bread",
+        2
+      ],
+      [
+        "Butter",
+        1
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -1720,8 +2388,14 @@
     "price": 532,
     "time": 40,
     "needs": [
-      "Bread",
-      "Lettuce"
+      [
+        "Bread",
+        2
+      ],
+      [
+        "Lettuce",
+        3
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -1731,8 +2405,14 @@
     "price": 367,
     "time": 15,
     "needs": [
-      "Egg",
-      "Olive Oil"
+      [
+        "Egg",
+        4
+      ],
+      [
+        "Olive Oil",
+        1
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -1742,8 +2422,14 @@
     "price": 723,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Lettuce"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Lettuce",
+        3
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -1753,8 +2439,14 @@
     "price": 345,
     "time": 15,
     "needs": [
-      "Coffee Bean",
-      "Toffee"
+      [
+        "Coffee Bean",
+        2
+      ],
+      [
+        "Toffee",
+        1
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -1772,7 +2464,10 @@
     "price": 21,
     "time": 60,
     "needs": [
-      "Sunflower"
+      [
+        "Sunflower",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1782,8 +2477,14 @@
     "price": 550,
     "time": 120,
     "needs": [
-      "Brown Sugar",
-      "Egg"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Egg",
+        4
+      ]
     ],
     "source": "Sushi Bar"
   },
@@ -1793,8 +2494,14 @@
     "price": 468,
     "time": 40,
     "needs": [
-      "Honey",
-      "Peanuts"
+      [
+        "Honey",
+        1
+      ],
+      [
+        "Peanuts",
+        1
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -1804,8 +2511,14 @@
     "price": 763,
     "time": 120,
     "needs": [
-      "Fish Fillet",
-      "Lettuce"
+      [
+        "Fish Fillet",
+        1
+      ],
+      [
+        "Lettuce",
+        3
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -1815,8 +2528,14 @@
     "price": 547,
     "time": 60,
     "needs": [
-      "Blackberry",
-      "Strawberry"
+      [
+        "Blackberry",
+        3
+      ],
+      [
+        "Strawberry",
+        3
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -1826,8 +2545,14 @@
     "price": 309,
     "time": 45,
     "needs": [
-      "Corn",
-      "Sesame"
+      [
+        "Corn",
+        2
+      ],
+      [
+        "Sesame",
+        1
+      ]
     ],
     "source": "Popcorn Pot"
   },
@@ -1837,8 +2562,14 @@
     "price": 338,
     "time": 20,
     "needs": [
-      "Sunflower",
-      "Indigo"
+      [
+        "Sunflower",
+        5
+      ],
+      [
+        "Indigo",
+        3
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -1848,8 +2579,14 @@
     "price": 648,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Bread"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Bread",
+        2
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -1859,8 +2596,14 @@
     "price": 259,
     "time": 60,
     "needs": [
-      "Pineapple",
-      "Egg"
+      [
+        "Pineapple",
+        3
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -1870,8 +2613,14 @@
     "price": 514,
     "time": 60,
     "needs": [
-      "Wheat",
-      "Cacao"
+      [
+        "Wheat",
+        3
+      ],
+      [
+        "Cacao",
+        3
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -1881,7 +2630,10 @@
     "price": 18,
     "time": 45,
     "needs": [
-      "Cabbage"
+      [
+        "Cabbage",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -1891,8 +2643,14 @@
     "price": 270,
     "time": 60,
     "needs": [
-      "Cabbage",
-      "Bacon"
+      [
+        "Cabbage",
+        3
+      ],
+      [
+        "Bacon",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -1910,8 +2668,14 @@
     "price": 378,
     "time": 25,
     "needs": [
-      "Butter",
-      "Egg"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -1921,8 +2685,14 @@
     "price": 468,
     "time": 45,
     "needs": [
-      "Olive",
-      "Bread"
+      [
+        "Olive",
+        3
+      ],
+      [
+        "Bread",
+        2
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -1932,8 +2702,14 @@
     "price": 583,
     "time": 60,
     "needs": [
-      "Bread",
-      "Egg"
+      [
+        "Bread",
+        2
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -1943,8 +2719,14 @@
     "price": 320,
     "time": 45,
     "needs": [
-      "Apple",
-      "Lemon"
+      [
+        "Apple",
+        1
+      ],
+      [
+        "Lemon",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -1954,8 +2736,14 @@
     "price": 43,
     "time": 15,
     "needs": [
-      "Egg",
-      "Wheat"
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Wheat",
+        2
+      ]
     ],
     "source": "Pasta Maker"
   },
@@ -1965,8 +2753,14 @@
     "price": 759,
     "time": 120,
     "needs": [
-      "Fresh Pasta",
-      "Lemon"
+      [
+        "Fresh Pasta",
+        4
+      ],
+      [
+        "Lemon",
+        2
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -1976,8 +2770,14 @@
     "price": 446,
     "time": 120,
     "needs": [
-      "Egg",
-      "Lemon Curd"
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Lemon Curd",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -1987,8 +2787,14 @@
     "price": 486,
     "time": 60,
     "needs": [
-      "Asparagus",
-      "Bacon"
+      [
+        "Asparagus",
+        5
+      ],
+      [
+        "Bacon",
+        3
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -1998,7 +2804,10 @@
     "price": 39,
     "time": 300,
     "needs": [
-      "Onion"
+      [
+        "Onion",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2008,8 +2817,14 @@
     "price": 190,
     "time": 60,
     "needs": [
-      "Butter",
-      "Onion"
+      [
+        "Butter",
+        1
+      ],
+      [
+        "Onion",
+        2
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -2019,8 +2834,14 @@
     "price": 896,
     "time": 120,
     "needs": [
-      "Cream",
-      "Egg"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -2038,8 +2859,14 @@
     "price": 619,
     "time": 60,
     "needs": [
-      "Peanuts",
-      "Milk"
+      [
+        "Peanuts",
+        1
+      ],
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -2049,8 +2876,14 @@
     "price": 230,
     "time": 30,
     "needs": [
-      "Brown Sugar",
-      "Lemon"
+      [
+        "Brown Sugar",
+        1
+      ],
+      [
+        "Lemon",
+        1
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -2060,8 +2893,14 @@
     "price": 255,
     "time": 60,
     "needs": [
-      "Bread",
-      "Egg"
+      [
+        "Bread",
+        1
+      ],
+      [
+        "Egg",
+        1
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -2071,8 +2910,14 @@
     "price": 205,
     "time": 60,
     "needs": [
-      "Rice",
-      "Egg"
+      [
+        "Rice",
+        5
+      ],
+      [
+        "Egg",
+        5
+      ]
     ],
     "source": "Wok Kitchen"
   },
@@ -2082,8 +2927,14 @@
     "price": 349,
     "time": 60,
     "needs": [
-      "Cherry",
-      "Cream"
+      [
+        "Cherry",
+        1
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -2093,8 +2944,14 @@
     "price": 468,
     "time": 120,
     "needs": [
-      "Strawberry",
-      "Wool"
+      [
+        "Strawberry",
+        2
+      ],
+      [
+        "Wool",
+        6
+      ]
     ],
     "source": "Hat Maker"
   },
@@ -2104,7 +2961,10 @@
     "price": 14,
     "time": 35,
     "needs": [
-      "Cucumber"
+      [
+        "Cucumber",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2114,8 +2974,14 @@
     "price": 266,
     "time": 40,
     "needs": [
-      "Cucumber",
-      "Honey"
+      [
+        "Cucumber",
+        3
+      ],
+      [
+        "Honey",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -2133,8 +2999,14 @@
     "price": 295,
     "time": 60,
     "needs": [
-      "Wool",
-      "Sunflower"
+      [
+        "Wool",
+        2
+      ],
+      [
+        "Sunflower",
+        3
+      ]
     ],
     "source": "Loom"
   },
@@ -2144,7 +3016,10 @@
     "price": 234,
     "time": 120,
     "needs": [
-      "Orange"
+      [
+        "Orange",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -2154,7 +3029,10 @@
     "price": 601,
     "time": 25,
     "needs": [
-      "Bread"
+      [
+        "Bread",
+        2
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -2164,8 +3042,14 @@
     "price": 327,
     "time": 120,
     "needs": [
-      "Bread",
-      "Cheese"
+      [
+        "Bread",
+        2
+      ],
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -2175,8 +3059,14 @@
     "price": 457,
     "time": 120,
     "needs": [
-      "Beeswax",
-      "Lemon"
+      [
+        "Beeswax",
+        1
+      ],
+      [
+        "Lemon",
+        2
+      ]
     ],
     "source": "Candle Maker"
   },
@@ -2186,8 +3076,14 @@
     "price": 619,
     "time": 180,
     "needs": [
-      "Cotton Fabric",
-      "Duck Feather"
+      [
+        "Cotton Fabric",
+        3
+      ],
+      [
+        "Duck Feather",
+        1
+      ]
     ],
     "source": "Hat Maker"
   },
@@ -2197,8 +3093,14 @@
     "price": 475,
     "time": 60,
     "needs": [
-      "Potato",
-      "Tomato"
+      [
+        "Potato",
+        4
+      ],
+      [
+        "Tomato",
+        3
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -2208,7 +3110,10 @@
     "price": 14,
     "time": 40,
     "needs": [
-      "Beetroot"
+      [
+        "Beetroot",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2218,8 +3123,14 @@
     "price": 198,
     "time": 25,
     "needs": [
-      "Beetroot",
-      "Carrot"
+      [
+        "Beetroot",
+        2
+      ],
+      [
+        "Carrot",
+        3
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -2229,7 +3140,10 @@
     "price": 100,
     "time": 20,
     "needs": [
-      "Rice"
+      [
+        "Rice",
+        5
+      ]
     ],
     "source": "Pasta Maker"
   },
@@ -2239,7 +3153,10 @@
     "price": 432,
     "time": 120,
     "needs": [
-      "Carrot"
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -2249,8 +3166,14 @@
     "price": 500,
     "time": 40,
     "needs": [
-      "Cotton Fabric",
-      "Lily"
+      [
+        "Cotton Fabric",
+        1
+      ],
+      [
+        "Lily",
+        5
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -2260,7 +3183,10 @@
     "price": 36,
     "time": 240,
     "needs": [
-      "Bell Pepper"
+      [
+        "Bell Pepper",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2270,7 +3196,10 @@
     "price": 457,
     "time": 480,
     "needs": [
-      "Orange"
+      [
+        "Orange",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -2280,8 +3209,14 @@
     "price": 558,
     "time": 120,
     "needs": [
-      "Duck Feather",
-      "Indigo"
+      [
+        "Duck Feather",
+        2
+      ],
+      [
+        "Indigo",
+        1
+      ]
     ],
     "source": "Hat Maker"
   },
@@ -2291,8 +3226,14 @@
     "price": 532,
     "time": 60,
     "needs": [
-      "Tomato Sauce",
-      "Fresh Pasta"
+      [
+        "Tomato Sauce",
+        1
+      ],
+      [
+        "Fresh Pasta",
+        3
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -2302,8 +3243,14 @@
     "price": 266,
     "time": 120,
     "needs": [
-      "Bell Pepper",
-      "Carrot"
+      [
+        "Bell Pepper",
+        2
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2313,7 +3260,10 @@
     "price": 72,
     "time": 10,
     "needs": [
-      "Chamomile"
+      [
+        "Chamomile",
+        5
+      ]
     ],
     "source": "Essential Oils Lab"
   },
@@ -2323,8 +3273,14 @@
     "price": 370,
     "time": 30,
     "needs": [
-      "Bacon",
-      "Bread"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Bread",
+        1
+      ]
     ],
     "source": "Hot Dog Stand"
   },
@@ -2334,8 +3290,14 @@
     "price": 468,
     "time": 60,
     "needs": [
-      "Cabbage",
-      "Carrot"
+      [
+        "Cabbage",
+        3
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2345,7 +3307,10 @@
     "price": 226,
     "time": 30,
     "needs": [
-      "White Sugar"
+      [
+        "White Sugar",
+        3
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -2363,8 +3328,14 @@
     "price": 435,
     "time": 120,
     "needs": [
-      "Cream",
-      "Egg"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -2374,8 +3345,14 @@
     "price": 367,
     "time": 45,
     "needs": [
-      "Lettuce",
-      "Soybean"
+      [
+        "Lettuce",
+        3
+      ],
+      [
+        "Soybean",
+        6
+      ]
     ],
     "source": "Hot Dog Stand"
   },
@@ -2385,8 +3362,14 @@
     "price": 648,
     "time": 60,
     "needs": [
-      "Lettuce",
-      "Rice"
+      [
+        "Lettuce",
+        5
+      ],
+      [
+        "Rice",
+        20
+      ]
     ],
     "source": "Sushi Bar"
   },
@@ -2396,7 +3379,10 @@
     "price": 234,
     "time": 45,
     "needs": [
-      "Beetroot"
+      [
+        "Beetroot",
+        3
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2406,7 +3392,10 @@
     "price": 129,
     "time": 15,
     "needs": [
-      "Milk"
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -2416,8 +3405,14 @@
     "price": 252,
     "time": 20,
     "needs": [
-      "Chili Pepper",
-      "Onion"
+      [
+        "Chili Pepper",
+        2
+      ],
+      [
+        "Onion",
+        2
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -2427,8 +3422,14 @@
     "price": 396,
     "time": 45,
     "needs": [
-      "Corn Bread",
-      "Bacon"
+      [
+        "Corn Bread",
+        1
+      ],
+      [
+        "Bacon",
+        1
+      ]
     ],
     "source": "Taco Kitchen"
   },
@@ -2438,8 +3439,14 @@
     "price": 136,
     "time": 60,
     "needs": [
-      "Egg",
-      "Carrot"
+      [
+        "Egg",
+        2
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Omelet Station"
   },
@@ -2449,8 +3456,14 @@
     "price": 230,
     "time": 40,
     "needs": [
-      "Egg",
-      "Asparagus"
+      [
+        "Egg",
+        2
+      ],
+      [
+        "Asparagus",
+        2
+      ]
     ],
     "source": "Omelet Station"
   },
@@ -2460,8 +3473,14 @@
     "price": 316,
     "time": 60,
     "needs": [
-      "Rice Noodles",
-      "Carrot"
+      [
+        "Rice Noodles",
+        2
+      ],
+      [
+        "Carrot",
+        2
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2471,8 +3490,14 @@
     "price": 399,
     "time": 180,
     "needs": [
-      "Honey",
-      "Orange"
+      [
+        "Honey",
+        1
+      ],
+      [
+        "Orange",
+        2
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -2482,8 +3507,14 @@
     "price": 529,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Corn"
+      [
+        "Bacon",
+        4
+      ],
+      [
+        "Corn",
+        4
+      ]
     ],
     "source": "Hot Dog Stand"
   },
@@ -2493,8 +3524,14 @@
     "price": 255,
     "time": 120,
     "needs": [
-      "Milk",
-      "Onion"
+      [
+        "Milk",
+        1
+      ],
+      [
+        "Onion",
+        2
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -2504,7 +3541,10 @@
     "price": 28,
     "time": 120,
     "needs": [
-      "Ginger"
+      [
+        "Ginger",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2514,8 +3554,14 @@
     "price": 270,
     "time": 60,
     "needs": [
-      "Sesame",
-      "Ginger"
+      [
+        "Sesame",
+        3
+      ],
+      [
+        "Ginger",
+        1
+      ]
     ],
     "source": "Candy Machine"
   },
@@ -2525,8 +3571,14 @@
     "price": 435,
     "time": 20,
     "needs": [
-      "Vanilla Ice Cream",
-      "Espresso"
+      [
+        "Vanilla Ice Cream",
+        1
+      ],
+      [
+        "Espresso",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -2536,8 +3588,14 @@
     "price": 392,
     "time": 60,
     "needs": [
-      "Chili Pepper",
-      "Corn Bread"
+      [
+        "Chili Pepper",
+        2
+      ],
+      [
+        "Corn Bread",
+        2
+      ]
     ],
     "source": "Taco Kitchen"
   },
@@ -2547,7 +3605,10 @@
     "price": 464,
     "time": 480,
     "needs": [
-      "Peach"
+      [
+        "Peach",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -2557,8 +3618,14 @@
     "price": 637,
     "time": 120,
     "needs": [
-      "Lobster Tail",
-      "Cream"
+      [
+        "Lobster Tail",
+        1
+      ],
+      [
+        "Cream",
+        2
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -2568,8 +3635,14 @@
     "price": 464,
     "time": 35,
     "needs": [
-      "Cucumber",
-      "Mayonnaise"
+      [
+        "Cucumber",
+        2
+      ],
+      [
+        "Mayonnaise",
+        1
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -2579,8 +3652,14 @@
     "price": 543,
     "time": 60,
     "needs": [
-      "Fish Fillet",
-      "Chili Pepper"
+      [
+        "Fish Fillet",
+        1
+      ],
+      [
+        "Chili Pepper",
+        3
+      ]
     ],
     "source": "Wok Kitchen"
   },
@@ -2590,7 +3669,10 @@
     "price": 313,
     "time": 20,
     "needs": [
-      "Plain Donut"
+      [
+        "Plain Donut",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -2600,8 +3682,14 @@
     "price": 464,
     "time": 60,
     "needs": [
-      "Egg",
-      "Cheese"
+      [
+        "Egg",
+        3
+      ],
+      [
+        "Cheese",
+        2
+      ]
     ],
     "source": "Omelet Station"
   },
@@ -2611,7 +3699,10 @@
     "price": 43,
     "time": 360,
     "needs": [
-      "Tea Leaf"
+      [
+        "Tea Leaf",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2621,7 +3712,10 @@
     "price": 241,
     "time": 30,
     "needs": [
-      "Tea Leaf"
+      [
+        "Tea Leaf",
+        5
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -2631,8 +3725,14 @@
     "price": 306,
     "time": 60,
     "needs": [
-      "Bacon",
-      "Bread"
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Bread",
+        1
+      ]
     ],
     "source": "Hot Dog Stand"
   },
@@ -2642,8 +3742,14 @@
     "price": 352,
     "time": 20,
     "needs": [
-      "Bell Pepper",
-      "Bacon"
+      [
+        "Bell Pepper",
+        3
+      ],
+      [
+        "Bacon",
+        1
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -2653,7 +3759,10 @@
     "price": 162,
     "time": 20,
     "needs": [
-      "Ginger"
+      [
+        "Ginger",
+        5
+      ]
     ],
     "source": "Essential Oils Lab"
   },
@@ -2663,8 +3772,14 @@
     "price": 190,
     "time": 45,
     "needs": [
-      "Milk",
-      "Tea Leaf"
+      [
+        "Milk",
+        1
+      ],
+      [
+        "Tea Leaf",
+        3
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -2674,8 +3789,14 @@
     "price": 439,
     "time": 60,
     "needs": [
-      "Bread",
-      "Olive Oil"
+      [
+        "Bread",
+        1
+      ],
+      [
+        "Olive Oil",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -2685,8 +3806,14 @@
     "price": 626,
     "time": 25,
     "needs": [
-      "Chocolate",
-      "Strawberry"
+      [
+        "Chocolate",
+        1
+      ],
+      [
+        "Strawberry",
+        3
+      ]
     ],
     "source": "Fondue Pot"
   },
@@ -2696,7 +3823,10 @@
     "price": 36,
     "time": 240,
     "needs": [
-      "Peony"
+      [
+        "Peony",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2706,8 +3836,14 @@
     "price": 241,
     "time": 60,
     "needs": [
-      "Cheese",
-      "Chili Pepper"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Chili Pepper",
+        2
+      ]
     ],
     "source": "Taco Kitchen"
   },
@@ -2717,8 +3853,14 @@
     "price": 597,
     "time": 120,
     "needs": [
-      "Blackberry",
-      "Honey"
+      [
+        "Blackberry",
+        2
+      ],
+      [
+        "Honey",
+        1
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2728,7 +3870,10 @@
     "price": 594,
     "time": 30,
     "needs": [
-      "Plain Donut"
+      [
+        "Plain Donut",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -2738,8 +3883,14 @@
     "price": 410,
     "time": 120,
     "needs": [
-      "Fresh Pasta",
-      "Bacon"
+      [
+        "Fresh Pasta",
+        3
+      ],
+      [
+        "Bacon",
+        2
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -2749,8 +3900,14 @@
     "price": 450,
     "time": 180,
     "needs": [
-      "Cream",
-      "Honey"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "Honey",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -2760,8 +3917,14 @@
     "price": 313,
     "time": 40,
     "needs": [
-      "Honey",
-      "Tea Leaf"
+      [
+        "Honey",
+        1
+      ],
+      [
+        "Tea Leaf",
+        3
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -2771,7 +3934,10 @@
     "price": 21,
     "time": 60,
     "needs": [
-      "Broccoli"
+      [
+        "Broccoli",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2781,8 +3947,14 @@
     "price": 345,
     "time": 60,
     "needs": [
-      "Broccoli",
-      "Cheese"
+      [
+        "Broccoli",
+        3
+      ],
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -2791,12 +3963,8 @@
     "level": 83,
     "price": 572,
     "time": 120,
-    "needs": [
-      "Egg",
-      "Tomato Sauce",
-      "Rice"
-    ],
-    "source": "Omelet Station"
+    "needs": [],
+    "source": "Rice"
   },
   {
     "name": "Summer Salad",
@@ -2804,8 +3972,14 @@
     "price": 554,
     "time": 180,
     "needs": [
-      "Goat Cheese",
-      "Onion"
+      [
+        "Goat Cheese",
+        1
+      ],
+      [
+        "Onion",
+        3
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -2815,7 +3989,10 @@
     "price": 32,
     "time": 180,
     "needs": [
-      "Grapes"
+      [
+        "Grapes",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2825,7 +4002,10 @@
     "price": 104,
     "time": 120,
     "needs": [
-      "Grapes"
+      [
+        "Grapes",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -2835,8 +4015,14 @@
     "price": 417,
     "time": 60,
     "needs": [
-      "Corn Bread",
-      "Onion"
+      [
+        "Corn Bread",
+        2
+      ],
+      [
+        "Onion",
+        3
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -2846,8 +4032,14 @@
     "price": 327,
     "time": 60,
     "needs": [
-      "Goat Milk",
-      "Cacao"
+      [
+        "Goat Milk",
+        1
+      ],
+      [
+        "Cacao",
+        2
+      ]
     ],
     "source": "Bath Kiosk"
   },
@@ -2857,8 +4049,14 @@
     "price": 403,
     "time": 60,
     "needs": [
-      "Olive Oil",
-      "Lemon"
+      [
+        "Olive Oil",
+        1
+      ],
+      [
+        "Lemon",
+        1
+      ]
     ],
     "source": "Bath Kiosk"
   },
@@ -2868,7 +4066,10 @@
     "price": 324,
     "time": 60,
     "needs": [
-      "Beeswax"
+      [
+        "Beeswax",
+        1
+      ]
     ],
     "source": "Candle Maker"
   },
@@ -2878,7 +4079,10 @@
     "price": 32,
     "time": 180,
     "needs": [
-      "Mint"
+      [
+        "Mint",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -2896,7 +4100,10 @@
     "price": 162,
     "time": 360,
     "needs": [
-      "Grapes"
+      [
+        "Grapes",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -2906,8 +4113,14 @@
     "price": 288,
     "time": 120,
     "needs": [
-      "Cream",
-      "White Sugar"
+      [
+        "Cream",
+        1
+      ],
+      [
+        "White Sugar",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -2917,8 +4130,14 @@
     "price": 331,
     "time": 120,
     "needs": [
-      "Peony",
-      "Cotton"
+      [
+        "Peony",
+        5
+      ],
+      [
+        "Cotton",
+        4
+      ]
     ],
     "source": "Hat Maker"
   },
@@ -2928,8 +4147,14 @@
     "price": 241,
     "time": 20,
     "needs": [
-      "Lemon",
-      "Tea Leaf"
+      [
+        "Lemon",
+        1
+      ],
+      [
+        "Tea Leaf",
+        3
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -2939,8 +4164,14 @@
     "price": 507,
     "time": 30,
     "needs": [
-      "Bacon",
-      "Broccoli"
+      [
+        "Bacon",
+        3
+      ],
+      [
+        "Broccoli",
+        1
+      ]
     ],
     "source": "Fondue Pot"
   },
@@ -2950,8 +4181,14 @@
     "price": 597,
     "time": 45,
     "needs": [
-      "Ginger",
-      "Rice Noodles"
+      [
+        "Ginger",
+        1
+      ],
+      [
+        "Rice Noodles",
+        1
+      ]
     ],
     "source": "Wok Kitchen"
   },
@@ -2961,8 +4198,14 @@
     "price": 273,
     "time": 30,
     "needs": [
-      "Wheat",
-      "Butter"
+      [
+        "Wheat",
+        5
+      ],
+      [
+        "Butter",
+        1
+      ]
     ],
     "source": "Bakery"
   },
@@ -2972,7 +4215,10 @@
     "price": 230,
     "time": 25,
     "needs": [
-      "Plain Donut"
+      [
+        "Plain Donut",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -2982,8 +4228,14 @@
     "price": 432,
     "time": 60,
     "needs": [
-      "Cheese",
-      "Corn"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Corn",
+        4
+      ]
     ],
     "source": "Taco Kitchen"
   },
@@ -2993,8 +4245,14 @@
     "price": 576,
     "time": 60,
     "needs": [
-      "Fresh Pasta",
-      "Tomato Sauce"
+      [
+        "Fresh Pasta",
+        3
+      ],
+      [
+        "Tomato Sauce",
+        1
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -3004,8 +4262,14 @@
     "price": 237,
     "time": 60,
     "needs": [
-      "Broccoli",
-      "Onion"
+      [
+        "Broccoli",
+        3
+      ],
+      [
+        "Onion",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -3015,8 +4279,14 @@
     "price": 302,
     "time": 25,
     "needs": [
-      "Chili Pepper",
-      "Bacon"
+      [
+        "Chili Pepper",
+        1
+      ],
+      [
+        "Bacon",
+        2
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3025,12 +4295,8 @@
     "level": 87,
     "price": 270,
     "time": 60,
-    "needs": [
-      "Egg",
-      "Bacon",
-      "Potato"
-    ],
-    "source": "Omelet Station"
+    "needs": [],
+    "source": "Potato"
   },
   {
     "name": "Mixed Smoothie",
@@ -3038,8 +4304,14 @@
     "price": 504,
     "time": 30,
     "needs": [
-      "Lemon",
-      "Orange"
+      [
+        "Lemon",
+        1
+      ],
+      [
+        "Orange",
+        2
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -3057,8 +4329,14 @@
     "price": 277,
     "time": 20,
     "needs": [
-      "Banana",
-      "Coffee Bean"
+      [
+        "Banana",
+        1
+      ],
+      [
+        "Coffee Bean",
+        2
+      ]
     ],
     "source": "Coffee Kiosk"
   },
@@ -3068,8 +4346,14 @@
     "price": 169,
     "time": 30,
     "needs": [
-      "Ginger",
-      "Apple"
+      [
+        "Ginger",
+        1
+      ],
+      [
+        "Apple",
+        2
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3079,7 +4363,10 @@
     "price": 388,
     "time": 30,
     "needs": [
-      "Plain Donut"
+      [
+        "Plain Donut",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -3089,7 +4376,10 @@
     "price": 18,
     "time": 60,
     "needs": [
-      "Passion Fruit"
+      [
+        "Passion Fruit",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3099,7 +4389,10 @@
     "price": 64,
     "time": 45,
     "needs": [
-      "Passion Fruit"
+      [
+        "Passion Fruit",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -3109,8 +4402,14 @@
     "price": 255,
     "time": 40,
     "needs": [
-      "Orange",
-      "Tea Leaf"
+      [
+        "Orange",
+        1
+      ],
+      [
+        "Tea Leaf",
+        3
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3120,8 +4419,14 @@
     "price": 450,
     "time": 180,
     "needs": [
-      "Cherry",
-      "Grapes"
+      [
+        "Cherry",
+        2
+      ],
+      [
+        "Grapes",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -3131,7 +4436,10 @@
     "price": 10,
     "time": 20,
     "needs": [
-      "Mushroom"
+      [
+        "Mushroom",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3141,8 +4449,14 @@
     "price": 216,
     "time": 60,
     "needs": [
-      "Mushroom",
-      "Lettuce"
+      [
+        "Mushroom",
+        3
+      ],
+      [
+        "Lettuce",
+        1
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -3152,8 +4466,14 @@
     "price": 306,
     "time": 60,
     "needs": [
-      "Soybean",
-      "Onion"
+      [
+        "Soybean",
+        3
+      ],
+      [
+        "Onion",
+        3
+      ]
     ],
     "source": "Wok Kitchen"
   },
@@ -3163,8 +4483,14 @@
     "price": 554,
     "time": 20,
     "needs": [
-      "Peony",
-      "Toffee"
+      [
+        "Peony",
+        3
+      ],
+      [
+        "Toffee",
+        1
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -3174,7 +4500,10 @@
     "price": 14,
     "time": 40,
     "needs": [
-      "Eggplant"
+      [
+        "Eggplant",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3184,8 +4513,14 @@
     "price": 324,
     "time": 40,
     "needs": [
-      "Eggplant",
-      "Salsa"
+      [
+        "Eggplant",
+        3
+      ],
+      [
+        "Salsa",
+        1
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -3195,8 +4530,14 @@
     "price": 424,
     "time": 30,
     "needs": [
-      "Banana",
-      "Egg"
+      [
+        "Banana",
+        3
+      ],
+      [
+        "Egg",
+        1
+      ]
     ],
     "source": "Bakery"
   },
@@ -3206,8 +4547,14 @@
     "price": 493,
     "time": 20,
     "needs": [
-      "Potato Bread",
-      "Cheese"
+      [
+        "Potato Bread",
+        1
+      ],
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Fondue Pot"
   },
@@ -3217,8 +4564,14 @@
     "price": 295,
     "time": 20,
     "needs": [
-      "Apple Jam",
-      "Egg"
+      [
+        "Apple Jam",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3228,8 +4581,14 @@
     "price": 270,
     "time": 240,
     "needs": [
-      "Cucumber",
-      "Onion"
+      [
+        "Cucumber",
+        3
+      ],
+      [
+        "Onion",
+        2
+      ]
     ],
     "source": "Preservation Station"
   },
@@ -3239,7 +4598,10 @@
     "price": 39,
     "time": 300,
     "needs": [
-      "Watermelon"
+      [
+        "Watermelon",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3249,8 +4611,14 @@
     "price": 252,
     "time": 30,
     "needs": [
-      "Peach",
-      "Tea Leaf"
+      [
+        "Peach",
+        1
+      ],
+      [
+        "Tea Leaf",
+        3
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3260,8 +4628,14 @@
     "price": 302,
     "time": 50,
     "needs": [
-      "Bread",
-      "Goat Cheese"
+      [
+        "Bread",
+        1
+      ],
+      [
+        "Goat Cheese",
+        1
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -3271,7 +4645,10 @@
     "price": 108,
     "time": 60,
     "needs": [
-      "Watermelon"
+      [
+        "Watermelon",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -3281,7 +4658,10 @@
     "price": 349,
     "time": 20,
     "needs": [
-      "Cherry Juice"
+      [
+        "Cherry Juice",
+        1
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -3291,8 +4671,14 @@
     "price": 111,
     "time": 50,
     "needs": [
-      "Passion Fruit",
-      "Wheat"
+      [
+        "Passion Fruit",
+        3
+      ],
+      [
+        "Wheat",
+        2
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -3302,8 +4688,14 @@
     "price": 298,
     "time": 30,
     "needs": [
-      "Peony",
-      "Cotton"
+      [
+        "Peony",
+        4
+      ],
+      [
+        "Cotton",
+        1
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -3313,8 +4705,14 @@
     "price": 313,
     "time": 45,
     "needs": [
-      "Sesame",
-      "Banana"
+      [
+        "Sesame",
+        3
+      ],
+      [
+        "Banana",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -3324,8 +4722,14 @@
     "price": 363,
     "time": 60,
     "needs": [
-      "Cacao",
-      "Coffee Bean"
+      [
+        "Cacao",
+        2
+      ],
+      [
+        "Coffee Bean",
+        2
+      ]
     ],
     "source": "Bath Kiosk"
   },
@@ -3335,7 +4739,10 @@
     "price": 403,
     "time": 35,
     "needs": [
-      "Plain Donut"
+      [
+        "Plain Donut",
+        1
+      ]
     ],
     "source": "Donut Maker"
   },
@@ -3353,8 +4760,14 @@
     "price": 352,
     "time": 60,
     "needs": [
-      "Banana",
-      "Blackberry"
+      [
+        "Banana",
+        1
+      ],
+      [
+        "Blackberry",
+        2
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -3364,7 +4777,10 @@
     "price": 385,
     "time": 300,
     "needs": [
-      "Plum"
+      [
+        "Plum",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -3374,7 +4790,10 @@
     "price": 18,
     "time": 60,
     "needs": [
-      "Clay"
+      [
+        "Clay",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3384,8 +4803,14 @@
     "price": 219,
     "time": 180,
     "needs": [
-      "Clay",
-      "Coffee Bean"
+      [
+        "Clay",
+        3
+      ],
+      [
+        "Coffee Bean",
+        1
+      ]
     ],
     "source": "Pottery Studio"
   },
@@ -3395,8 +4820,14 @@
     "price": 442,
     "time": 120,
     "needs": [
-      "Beeswax",
-      "Peony"
+      [
+        "Beeswax",
+        1
+      ],
+      [
+        "Peony",
+        2
+      ]
     ],
     "source": "Candle Maker"
   },
@@ -3406,8 +4837,14 @@
     "price": 604,
     "time": 60,
     "needs": [
-      "Cacao",
-      "Cream"
+      [
+        "Cacao",
+        5
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -3417,8 +4854,14 @@
     "price": 471,
     "time": 180,
     "needs": [
-      "Fish Fillet",
-      "Chili Pepper"
+      [
+        "Fish Fillet",
+        2
+      ],
+      [
+        "Chili Pepper",
+        1
+      ]
     ],
     "source": "Preservation Station"
   },
@@ -3428,7 +4871,10 @@
     "price": 18,
     "time": 60,
     "needs": [
-      "Chickpea"
+      [
+        "Chickpea",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -3438,8 +4884,14 @@
     "price": 277,
     "time": 30,
     "needs": [
-      "Chickpea",
-      "Lemon"
+      [
+        "Chickpea",
+        3
+      ],
+      [
+        "Lemon",
+        2
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -3449,8 +4901,14 @@
     "price": 403,
     "time": 180,
     "needs": [
-      "Banana",
-      "Cherry"
+      [
+        "Banana",
+        1
+      ],
+      [
+        "Cherry",
+        3
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -3460,8 +4918,14 @@
     "price": 176,
     "time": 30,
     "needs": [
-      "Fish Fillet",
-      "Mushroom"
+      [
+        "Fish Fillet",
+        1
+      ],
+      [
+        "Mushroom",
+        3
+      ]
     ],
     "source": "BBQ Grill"
   },
@@ -3471,7 +4935,10 @@
     "price": 118,
     "time": 300,
     "needs": [
-      "Passion Fruit"
+      [
+        "Passion Fruit",
+        3
+      ]
     ],
     "source": "Jam Maker"
   },
@@ -3481,8 +4948,14 @@
     "price": 151,
     "time": 180,
     "needs": [
-      "Clay",
-      "Sunflower"
+      [
+        "Clay",
+        3
+      ],
+      [
+        "Sunflower",
+        1
+      ]
     ],
     "source": "Pottery Studio"
   },
@@ -3492,8 +4965,14 @@
     "price": 255,
     "time": 35,
     "needs": [
-      "Tea Leaf",
-      "Mint"
+      [
+        "Tea Leaf",
+        3
+      ],
+      [
+        "Mint",
+        1
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3503,8 +4982,14 @@
     "price": 162,
     "time": 60,
     "needs": [
-      "Mushroom",
-      "Cabbage"
+      [
+        "Mushroom",
+        3
+      ],
+      [
+        "Cabbage",
+        3
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -3522,7 +5007,10 @@
     "price": 230,
     "time": 50,
     "needs": [
-      "Mango"
+      [
+        "Mango",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -3532,8 +5020,14 @@
     "price": 698,
     "time": 60,
     "needs": [
-      "Peony",
-      "Platinum Bar"
+      [
+        "Peony",
+        3
+      ],
+      [
+        "Platinum Bar",
+        1
+      ]
     ],
     "source": "Jeweler"
   },
@@ -3543,8 +5037,14 @@
     "price": 406,
     "time": 40,
     "needs": [
-      "Chili Pepper",
-      "Wheat"
+      [
+        "Chili Pepper",
+        3
+      ],
+      [
+        "Wheat",
+        1
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3554,8 +5054,14 @@
     "price": 226,
     "time": 55,
     "needs": [
-      "Chili Pepper",
-      "Chickpea"
+      [
+        "Chili Pepper",
+        1
+      ],
+      [
+        "Chickpea",
+        3
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3565,8 +5071,14 @@
     "price": 219,
     "time": 300,
     "needs": [
-      "Cabbage",
-      "Ginger"
+      [
+        "Cabbage",
+        5
+      ],
+      [
+        "Ginger",
+        1
+      ]
     ],
     "source": "Preservation Station"
   },
@@ -3576,8 +5088,14 @@
     "price": 442,
     "time": 45,
     "needs": [
-      "Eggplant",
-      "Cheese"
+      [
+        "Eggplant",
+        3
+      ],
+      [
+        "Cheese",
+        1
+      ]
     ],
     "source": "Pie Oven"
   },
@@ -3587,8 +5105,14 @@
     "price": 320,
     "time": 60,
     "needs": [
-      "Egg",
-      "Honey"
+      [
+        "Egg",
+        2
+      ],
+      [
+        "Honey",
+        1
+      ]
     ],
     "source": "Bath Kiosk"
   },
@@ -3598,8 +5122,14 @@
     "price": 212,
     "time": 180,
     "needs": [
-      "Clay",
-      "Indigo"
+      [
+        "Clay",
+        3
+      ],
+      [
+        "Indigo",
+        2
+      ]
     ],
     "source": "Pottery Studio"
   },
@@ -3609,8 +5139,14 @@
     "price": 644,
     "time": 120,
     "needs": [
-      "Cacao",
-      "Butter"
+      [
+        "Cacao",
+        3
+      ],
+      [
+        "Butter",
+        3
+      ]
     ],
     "source": "Fudge Shop"
   },
@@ -3620,8 +5156,14 @@
     "price": 511,
     "time": 40,
     "needs": [
-      "Banana",
-      "Cacao"
+      [
+        "Banana",
+        2
+      ],
+      [
+        "Cacao",
+        3
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -3631,8 +5173,14 @@
     "price": 658,
     "time": 15,
     "needs": [
-      "Cacao",
-      "Cookie"
+      [
+        "Cacao",
+        3
+      ],
+      [
+        "Cookie",
+        1
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3642,8 +5190,14 @@
     "price": 288,
     "time": 30,
     "needs": [
-      "Passion Fruit",
-      "Chili Pepper"
+      [
+        "Passion Fruit",
+        2
+      ],
+      [
+        "Chili Pepper",
+        2
+      ]
     ],
     "source": "Sauce Maker"
   },
@@ -3653,8 +5207,14 @@
     "price": 417,
     "time": 35,
     "needs": [
-      "White Sugar",
-      "Cream"
+      [
+        "White Sugar",
+        1
+      ],
+      [
+        "Cream",
+        2
+      ]
     ],
     "source": "Fondue Pot"
   },
@@ -3664,8 +5224,14 @@
     "price": 144,
     "time": 20,
     "needs": [
-      "Chamomile",
-      "Honeycomb"
+      [
+        "Chamomile",
+        5
+      ],
+      [
+        "Honeycomb",
+        1
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3675,8 +5241,14 @@
     "price": 280,
     "time": 60,
     "needs": [
-      "Mushroom",
-      "Fresh Pasta"
+      [
+        "Mushroom",
+        5
+      ],
+      [
+        "Fresh Pasta",
+        3
+      ]
     ],
     "source": "Pasta Kitchen"
   },
@@ -3694,8 +5266,14 @@
     "price": 421,
     "time": 30,
     "needs": [
-      "Cacao",
-      "Coconut"
+      [
+        "Cacao",
+        1
+      ],
+      [
+        "Coconut",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -3705,8 +5283,14 @@
     "price": 522,
     "time": 35,
     "needs": [
-      "Plum",
-      "Grapes"
+      [
+        "Plum",
+        3
+      ],
+      [
+        "Grapes",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -3716,8 +5300,14 @@
     "price": 266,
     "time": 180,
     "needs": [
-      "Grapes",
-      "Raspberry"
+      [
+        "Grapes",
+        1
+      ],
+      [
+        "Raspberry",
+        1
+      ]
     ],
     "source": "Preservation Station"
   },
@@ -3727,8 +5317,14 @@
     "price": 522,
     "time": 120,
     "needs": [
-      "Butter",
-      "Cacao"
+      [
+        "Butter",
+        2
+      ],
+      [
+        "Cacao",
+        2
+      ]
     ],
     "source": "Fudge Shop"
   },
@@ -3738,8 +5334,14 @@
     "price": 320,
     "time": 15,
     "needs": [
-      "Coconut",
-      "Syrup"
+      [
+        "Coconut",
+        2
+      ],
+      [
+        "Syrup",
+        1
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -3749,8 +5351,14 @@
     "price": 223,
     "time": 60,
     "needs": [
-      "Chickpea",
-      "Wheat"
+      [
+        "Chickpea",
+        2
+      ],
+      [
+        "Wheat",
+        4
+      ]
     ],
     "source": "Deep Fryer"
   },
@@ -3760,8 +5368,14 @@
     "price": 234,
     "time": 120,
     "needs": [
-      "Milk",
-      "Cream"
+      [
+        "Milk",
+        3
+      ],
+      [
+        "Cream",
+        2
+      ]
     ],
     "source": "Yogurt Maker"
   },
@@ -3771,8 +5385,14 @@
     "price": 176,
     "time": 60,
     "needs": [
-      "Mushroom",
-      "Milk"
+      [
+        "Mushroom",
+        3
+      ],
+      [
+        "Milk",
+        1
+      ]
     ],
     "source": "Soup Kitchen"
   },
@@ -3782,8 +5402,14 @@
     "price": 540,
     "time": 120,
     "needs": [
-      "Butter",
-      "Cacao"
+      [
+        "Butter",
+        2
+      ],
+      [
+        "Cacao",
+        2
+      ]
     ],
     "source": "Fudge Shop"
   },
@@ -3793,8 +5419,14 @@
     "price": 475,
     "time": 40,
     "needs": [
-      "Coconut",
-      "Banana"
+      [
+        "Coconut",
+        1
+      ],
+      [
+        "Banana",
+        1
+      ]
     ],
     "source": "Smoothie Mixer"
   },
@@ -3812,7 +5444,10 @@
     "price": 252,
     "time": 55,
     "needs": [
-      "Guava"
+      [
+        "Guava",
+        2
+      ]
     ],
     "source": "Juice Press"
   },
@@ -3822,9 +5457,18 @@
     "price": 421,
     "time": 240,
     "needs": [
-      "Guava",
-      "Lemon",
-      "White Sugar"
+      [
+        "Guava",
+        2
+      ],
+      [
+        "Lemon",
+        1
+      ],
+      [
+        "White Sugar",
+        1
+      ]
     ],
     "source": "Preservation Station"
   },
@@ -3834,8 +5478,14 @@
     "price": 529,
     "time": 40,
     "needs": [
-      "Plain Yogurt",
-      "Strawberry Jam"
+      [
+        "Plain Yogurt",
+        1
+      ],
+      [
+        "Strawberry Jam",
+        1
+      ]
     ],
     "source": "Yogurt Maker"
   },
@@ -3845,8 +5495,14 @@
     "price": 352,
     "time": 15,
     "needs": [
-      "Broccoli",
-      "Tomato"
+      [
+        "Broccoli",
+        3
+      ],
+      [
+        "Tomato",
+        3
+      ]
     ],
     "source": "Flower Shop"
   },
@@ -3856,8 +5512,14 @@
     "price": 284,
     "time": 60,
     "needs": [
-      "Coconut",
-      "Tomato"
+      [
+        "Coconut",
+        1
+      ],
+      [
+        "Tomato",
+        2
+      ]
     ],
     "source": "Stew Pot"
   },
@@ -3867,10 +5529,22 @@
     "price": 518,
     "time": 60,
     "needs": [
-      "Guava",
-      "Passion Fruit",
-      "Mango",
-      "White Sugar"
+      [
+        "Guava",
+        1
+      ],
+      [
+        "Passion Fruit",
+        1
+      ],
+      [
+        "Mango",
+        2
+      ],
+      [
+        "White Sugar",
+        3
+      ]
     ],
     "source": "Ice Cream Maker"
   },
@@ -3888,8 +5562,14 @@
     "price": 313,
     "time": 34,
     "needs": [
-      "Pomegranate",
-      "Tea Leaf"
+      [
+        "Pomegranate",
+        1
+      ],
+      [
+        "Tea Leaf",
+        4
+      ]
     ],
     "source": "Tea Stand"
   },
@@ -3899,8 +5579,14 @@
     "price": 590,
     "time": 60,
     "needs": [
-      "Butter",
-      "Lemon"
+      [
+        "Butter",
+        2
+      ],
+      [
+        "Lemon",
+        2
+      ]
     ],
     "source": "Fudge Shop"
   },
@@ -3910,8 +5596,14 @@
     "price": 316,
     "time": 120,
     "needs": [
-      "Pomegranate",
-      "Egg"
+      [
+        "Pomegranate",
+        1
+      ],
+      [
+        "Egg",
+        2
+      ]
     ],
     "source": "Cake Oven"
   },
@@ -3921,8 +5613,14 @@
     "price": 374,
     "time": 30,
     "needs": [
-      "Bread",
-      "Lettuce"
+      [
+        "Bread",
+        2
+      ],
+      [
+        "Lettuce",
+        1
+      ]
     ],
     "source": "Sandwich Bar"
   },
@@ -3932,8 +5630,14 @@
     "price": 457,
     "time": 60,
     "needs": [
-      "Plain Yogurt",
-      "Raspberry"
+      [
+        "Plain Yogurt",
+        1
+      ],
+      [
+        "Raspberry",
+        4
+      ]
     ],
     "source": "Yogurt Maker"
   },
@@ -3943,8 +5647,14 @@
     "price": 370,
     "time": 120,
     "needs": [
-      "Chili Pepper",
-      "Bacon"
+      [
+        "Chili Pepper",
+        3
+      ],
+      [
+        "Bacon",
+        2
+      ]
     ],
     "source": "Stew Pot"
   },
@@ -3954,10 +5664,22 @@
     "price": 280,
     "time": 40,
     "needs": [
-      "Milk",
-      "White Sugar",
-      "Egg",
-      "Wheat"
+      [
+        "Milk",
+        2
+      ],
+      [
+        "White Sugar",
+        3
+      ],
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Wheat",
+        5
+      ]
     ],
     "source": "Cupcake Maker"
   },
@@ -3967,9 +5689,18 @@
     "price": 583,
     "time": 60,
     "needs": [
-      "Plain Cupcake",
-      "Guava",
-      "Cream"
+      [
+        "Plain Cupcake",
+        1
+      ],
+      [
+        "Guava",
+        2
+      ],
+      [
+        "Cream",
+        1
+      ]
     ],
     "source": "Cupcake Maker"
   },
@@ -3979,8 +5710,14 @@
     "price": 464,
     "time": 45,
     "needs": [
-      "Rice",
-      "Sesame"
+      [
+        "Rice",
+        20
+      ],
+      [
+        "Sesame",
+        1
+      ]
     ],
     "source": "Sushi Bar"
   },
@@ -3990,8 +5727,14 @@
     "price": 349,
     "time": 20,
     "needs": [
-      "Ginger Essential Oil",
-      "Mint Essential Oil"
+      [
+        "Ginger Essential Oil",
+        1
+      ],
+      [
+        "Mint Essential Oil",
+        1
+      ]
     ],
     "source": "Perfumerie"
   },
@@ -4001,8 +5744,14 @@
     "price": 1141,
     "time": 60,
     "needs": [
-      "Butter",
-      "Cacao"
+      [
+        "Butter",
+        2
+      ],
+      [
+        "Cacao",
+        2
+      ]
     ],
     "source": "Fudge Shop"
   },
@@ -4012,9 +5761,18 @@
     "price": 572,
     "time": 60,
     "needs": [
-      "Plain Cupcake",
-      "Pineapple",
-      "Coconut"
+      [
+        "Plain Cupcake",
+        1
+      ],
+      [
+        "Pineapple",
+        3
+      ],
+      [
+        "Coconut",
+        2
+      ]
     ],
     "source": "Cupcake Maker"
   },
@@ -4024,10 +5782,22 @@
     "price": 295,
     "time": 120,
     "needs": [
-      "Bacon",
-      "Potato",
-      "Onion",
-      "Mushroom"
+      [
+        "Bacon",
+        1
+      ],
+      [
+        "Potato",
+        3
+      ],
+      [
+        "Onion",
+        2
+      ],
+      [
+        "Mushroom",
+        2
+      ]
     ],
     "source": "Stew Pot"
   },
@@ -4037,8 +5807,14 @@
     "price": 388,
     "time": 15,
     "needs": [
-      "Lemon Essential Oil",
-      "Ginger"
+      [
+        "Lemon Essential Oil",
+        1
+      ],
+      [
+        "Ginger",
+        3
+      ]
     ],
     "source": "Perfumerie"
   },
@@ -4048,10 +5824,22 @@
     "price": 712,
     "time": 120,
     "needs": [
-      "Plain Cupcake",
-      "Cream",
-      "Cookie",
-      "Cacao"
+      [
+        "Plain Cupcake",
+        1
+      ],
+      [
+        "Cream",
+        2
+      ],
+      [
+        "Cookie",
+        2
+      ],
+      [
+        "Cacao",
+        1
+      ]
     ],
     "source": "Cupcake Maker"
   },
@@ -4061,9 +5849,18 @@
     "price": 198,
     "time": 25,
     "needs": [
-      "White Sugar",
-      "Egg",
-      "Wheat"
+      [
+        "White Sugar",
+        2
+      ],
+      [
+        "Egg",
+        3
+      ],
+      [
+        "Wheat",
+        5
+      ]
     ],
     "source": "Waffle Maker"
   },
@@ -4073,10 +5870,22 @@
     "price": 604,
     "time": 35,
     "needs": [
-      "Plain Waffles",
-      "Syrup",
-      "Raspberry",
-      "Blackberry"
+      [
+        "Plain Waffles",
+        1
+      ],
+      [
+        "Syrup",
+        1
+      ],
+      [
+        "Raspberry",
+        3
+      ],
+      [
+        "Blackberry",
+        2
+      ]
     ],
     "source": "Waffle Maker"
   },
@@ -4086,8 +5895,14 @@
     "price": 169,
     "time": 25,
     "needs": [
-      "Chamomile Essential Oil",
-      "Indigo"
+      [
+        "Chamomile Essential Oil",
+        1
+      ],
+      [
+        "Indigo",
+        3
+      ]
     ],
     "source": "Perfumerie"
   },
@@ -4097,10 +5912,22 @@
     "price": 558,
     "time": 45,
     "needs": [
-      "Cheese",
-      "Lettuce",
-      "Pomegranate",
-      "Orange"
+      [
+        "Cheese",
+        1
+      ],
+      [
+        "Lettuce",
+        3
+      ],
+      [
+        "Pomegranate",
+        1
+      ],
+      [
+        "Orange",
+        2
+      ]
     ],
     "source": "Salad Bar"
   },
@@ -4110,10 +5937,22 @@
     "price": 637,
     "time": 40,
     "needs": [
-      "Plain Waffles",
-      "Cacao",
-      "Strawberry",
-      "Banana"
+      [
+        "Plain Waffles",
+        1
+      ],
+      [
+        "Cacao",
+        2
+      ],
+      [
+        "Strawberry",
+        3
+      ],
+      [
+        "Banana",
+        1
+      ]
     ],
     "source": "Waffle Maker"
   },
@@ -4123,10 +5962,22 @@
     "price": 424,
     "time": 45,
     "needs": [
-      "Plain Waffles",
-      "Bacon",
-      "Egg",
-      "Asparagus"
+      [
+        "Plain Waffles",
+        1
+      ],
+      [
+        "Bacon",
+        2
+      ],
+      [
+        "Egg",
+        1
+      ],
+      [
+        "Asparagus",
+        2
+      ]
     ],
     "source": "Waffle Maker"
   },
@@ -4136,7 +5987,10 @@
     "price": 7,
     "time": 7,
     "needs": [
-      "Oats"
+      [
+        "Oats",
+        1
+      ]
     ],
     "source": "Farm"
   },
@@ -4146,10 +6000,22 @@
     "price": 604,
     "time": 50,
     "needs": [
-      "Plain Yogurt",
-      "Oats",
-      "Honey",
-      "Blackberry"
+      [
+        "Plain Yogurt",
+        1
+      ],
+      [
+        "Oats",
+        4
+      ],
+      [
+        "Honey",
+        1
+      ],
+      [
+        "Blackberry",
+        2
+      ]
     ],
     "source": "Yogurt Maker"
   },
@@ -4159,9 +6025,18 @@
     "price": 522,
     "time": 20,
     "needs": [
-      "Apple",
-      "Apple Jam",
-      "Oats"
+      [
+        "Apple",
+        1
+      ],
+      [
+        "Apple Jam",
+        2
+      ],
+      [
+        "Oats",
+        4
+      ]
     ],
     "source": "Porridge Bar"
   },
@@ -4171,10 +6046,22 @@
     "price": 284,
     "time": 40,
     "needs": [
-      "Coconut",
-      "White Sugar",
-      "Oats",
-      "Pineapple"
+      [
+        "Coconut",
+        1
+      ],
+      [
+        "White Sugar",
+        2
+      ],
+      [
+        "Oats",
+        3
+      ],
+      [
+        "Pineapple",
+        2
+      ]
     ],
     "source": "Bakery"
   },
@@ -4184,9 +6071,18 @@
     "price": 466,
     "time": 45,
     "needs": [
-      "Peach",
-      "Honey",
-      "Oats"
+      [
+        "Peach",
+        1
+      ],
+      [
+        "Honey",
+        2
+      ],
+      [
+        "Oats",
+        3
+      ]
     ],
     "source": "Porridge Bar"
   },
@@ -4196,9 +6092,18 @@
     "price": 266,
     "time": 60,
     "needs": [
-      "Oats",
-      "Pomegranate",
-      "Coconut"
+      [
+        "Oats",
+        2
+      ],
+      [
+        "Pomegranate",
+        1
+      ],
+      [
+        "Coconut",
+        1
+      ]
     ],
     "source": "Bath Kiosk"
   },
@@ -4208,10 +6113,22 @@
     "price": 435,
     "time": 35,
     "needs": [
-      "Pomegranate",
-      "Mint",
-      "Coconut",
-      "Oats"
+      [
+        "Pomegranate",
+        1
+      ],
+      [
+        "Mint",
+        2
+      ],
+      [
+        "Coconut",
+        2
+      ],
+      [
+        "Oats",
+        3
+      ]
     ],
     "source": "Porridge Bar"
   },
@@ -4221,10 +6138,22 @@
     "price": 673,
     "time": 45,
     "needs": [
-      "Vanilla Ice Cream",
-      "Cookie",
-      "Toffee",
-      "Syrup"
+      [
+        "Vanilla Ice Cream",
+        1
+      ],
+      [
+        "Cookie",
+        2
+      ],
+      [
+        "Toffee",
+        1
+      ],
+      [
+        "Syrup",
+        1
+      ]
     ],
     "source": "Milkshake Bar"
   },
@@ -4234,8 +6163,14 @@
     "price": 856,
     "time": 30,
     "needs": [
-      "Chocolate Ice Cream",
-      "Espresso"
+      [
+        "Chocolate Ice Cream",
+        1
+      ],
+      [
+        "Espresso",
+        2
+      ]
     ],
     "source": "Milkshake Bar"
   },
@@ -4245,9 +6180,18 @@
     "price": 759,
     "time": 35,
     "needs": [
-      "Peach Ice Cream",
-      "Orange",
-      "Lemon"
+      [
+        "Peach Ice Cream",
+        1
+      ],
+      [
+        "Orange",
+        2
+      ],
+      [
+        "Lemon",
+        1
+      ]
     ],
     "source": "Milkshake Bar"
   }

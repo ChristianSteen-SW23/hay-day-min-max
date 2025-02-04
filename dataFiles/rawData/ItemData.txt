@@ -592,7 +592,8 @@
 <td>26
 </td>
 <td><a href="/wiki/Bacon" title="Bacon">Bacon</a>&#160;(3)
-<p><a href="/wiki/Egg" title="Egg">Egg</a>&#160;(1)<br /><a href="/wiki/Wheat" title="Wheat">Wheat</a>&#160;(2)
+<p><a href="/wiki/Egg" title="Egg">Egg</a>&#160;(1)<br />
+<a href="/wiki/Wheat" title="Wheat">Wheat</a>&#160;(2)
 </p>
 </td>
 <td><a href="/wiki/Pie_Oven" title="Pie Oven">Pie Oven</a>
